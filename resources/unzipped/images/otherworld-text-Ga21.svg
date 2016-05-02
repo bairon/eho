@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 155" height="155" width="100" version="1.1" id="svg2">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="otherworld-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text98" y="70.71479" x="3.1014643" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan100" y="70.71479" x="3.6874018"><tspan id="tspan102" y="70.71479" x="3.1014643">The cats are pleased to chat and share useful secrets. </tspan></tspan><tspan id="tspan104" y="75.636665" x="5.9991083"><tspan id="tspan106" y="75.636665" x="5.4131708">Gain 2 Clues. When the topic of food is brought </tspan></tspan><tspan id="tspan108" y="80.55854" x="8.7823114"><tspan id="tspan110" y="80.55854" x="8.1963739">up, dozens of cats take an interest. A crowd of </tspan></tspan><tspan id="tspan112" y="85.480415" x="8.2970819"><tspan id="tspan114" y="85.480415" x="7.7111444">hungry felines surround you. Become Delayed </tspan></tspan><tspan id="tspan116" y="90.40229" x="3.1060419"><tspan id="tspan118" y="90.40229" x="2.5201044">unless you spend 1 Health. If you spend the Health, </tspan></tspan><tspan id="tspan120" y="95.324165" x="9.871789"><tspan id="tspan122" y="95.324165" x="9.2858515">you feed the cats your rations and go hungry </tspan></tspan><tspan id="tspan124" y="100.24604" x="27.706261"><tspan id="tspan126" y="100.24604" x="27.706261">yourself; close this Gate.</tspan></tspan></text>
+  <text x="89.930534" y="152.17839" id="text3067" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan x="89.930534" y="152.17839" id="tspan3069" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;writing-mode:lr-tb;text-anchor:start">21</tspan></text>
+  <text id="text92" y="11.359901" x="4.0982647" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:94.99999881%;font-family:WfUglyQua;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan94" y="11.359901" x="4.0982647"><tspan id="tspan96" y="11.359901" x="4.0982647">The Dreamlands</tspan></tspan></text>
+  <path style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 2.2987288,27.121822 0,35.137712 95.3972462,0 0,-24.629237 -24.136653,0 -11.165254,-10.508475 z" id="path4426"/>
+  <text id="text62" y="30.095123" x="3.363781" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan64" y="30.095123" x="3.9497185"><tspan id="tspan66" y="30.095123" x="3.363781">You are strictly admonished that </tspan></tspan><tspan id="tspan68" y="35.016998" x="5.2455063"><tspan id="tspan70" y="35.016998" x="4.6595688">in the city of Ulthar, no man may </tspan></tspan><tspan id="tspan72" y="39.938873" x="3.3415222"><tspan id="tspan74" y="39.938873" x="2.7555847">kill a cat. As a result, you see the city is </tspan></tspan><tspan id="tspan76" y="44.860748" x="5.1270752"><tspan id="tspan78" y="44.860748" x="4.5411377">filled with cats. If you know the language, you can </tspan></tspan><tspan id="tspan80" y="49.782623" x="3.9368896"><tspan id="tspan82" y="49.782623" x="3.3509521">communicate with these highly intelligent creatures </tspan></tspan><tspan id="tspan84" y="0" x="52.221802"><tspan id="tspan86" y="54.704498" x="45.098999">(</tspan><tspan id="tspan88" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="54.704498" x="46.600464">[</tspan><tspan id="tspan90" y="54.704498" x="52.221802">).</tspan></tspan></text>
+  <path style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 9.5233051,114.77225 -3.1197034,7.22457 0,21.18115 5.9110173,6.56779 67.976695,0 1.970339,-5.91101 13.135593,0 0,-24.62924 -6.075212,-4.26906 z" id="path4460"/>
+  <text id="text32" y="117.74512" x="11.565337" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan34" y="117.74512" x="12.151275"><tspan id="tspan36" y="117.74512" x="11.565337">The cats flee from you, making the people </tspan></tspan><tspan id="tspan38" y="122.66699" x="8.6774092"><tspan id="tspan40" x="8.0914717">of Ulthar suspicious and they force you into the </tspan></tspan><tspan id="tspan42" y="127.58887" x="8.8959961"><tspan id="tspan44" x="8.3100586">Enchanted Wood. Lose 1 Health. While you're </tspan></tspan><tspan id="tspan46" y="132.51074" x="12.374999"><tspan id="tspan48" x="11.789062">out there, you must keep a careful watch to </tspan></tspan><tspan id="tspan50" y="137.43262" x="8.3237915"><tspan id="tspan52" x="7.737854">prevent the zoogs from stealing your belongings </tspan></tspan><tspan id="tspan54" y="142.35449" x="10.182312"><tspan id="tspan56" x="10.182312">(</tspan><tspan id="tspan58" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons">|</tspan><tspan id="tspan60">). If you fail, discard 1 ITEM possession.</tspan></tspan></text>
+</svg>

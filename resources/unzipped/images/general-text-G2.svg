@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="general-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text80" y="21.757357" x="2.4767799" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan82" y="21.757357" x="3.0627174"><tspan id="tspan84" y="21.757357" x="2.4767799">Corrupt members of the police force pressure you for </tspan></tspan><tspan id="tspan86" y="26.679232" x="4.303257"><tspan id="tspan88" y="26.679232" x="3.7173195">a bribe. You speak to some people you know to take </tspan></tspan><tspan id="tspan90" y="41.444855" x="49.406712"><tspan id="tspan92" y="31.601107" x="2.8338356">care of the problem (</tspan><tspan id="tspan94" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="31.601107" x="40.745823">]</tspan><tspan id="tspan96" y="31.601107" x="48.820774">). If you pass, the police are </tspan></tspan><tspan id="tspan98" y="46.36673" x="5.7864113"><tspan id="tspan100" y="36.52298" x="5.2004738">apologetic and share their leads with you; spawn 1 </tspan></tspan><tspan id="tspan102" y="0" x="6.0015602"><tspan id="tspan104" y="41.444855" x="5.4156227">Clue. If you fail gain a Debt Condition to pay the </tspan></tspan><tspan id="tspan106" y="0" x="45.346348"><tspan id="tspan108" y="46.36673" x="45.346348">bribe.</tspan></tspan></text>
+  <text id="text46" y="64.817497" x="2.7110996" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan48" y="64.817497" x="3.2970371"><tspan id="tspan50" y="64.817497" x="2.7110996">Far from any road or village, you find a shallow grave </tspan></tspan><tspan id="tspan52" y="69.739372" x="6.1489048"><tspan id="tspan54" y="69.739372" x="5.5629673">marked only with an arcane symbol. As you dig, a </tspan></tspan><tspan id="tspan56" y="84.504997" x="74.70359"><tspan id="tspan58" y="74.661247" x="2.9720249">growing dread weakens your resolve (</tspan><tspan id="tspan60" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="74.661247" x="70.409767">{</tspan><tspan id="tspan62" y="74.661247" x="74.117653">). If you pass, </tspan></tspan><tspan id="tspan64" y="89.426872" x="4.1027012"><tspan id="tspan66" y="79.583122" x="3.5167637">you find a charred corpse clutching a journal; gain 1 </tspan></tspan><tspan id="tspan68" y="0" x="42.774574"><tspan id="tspan70" y="84.504997" x="4.1759434">Clue or improve (</tspan><tspan id="tspan72" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="84.504997" x="36.567299">[</tspan><tspan id="tspan74" y="84.504997" x="42.188637">). If you fail, you run from the </tspan></tspan><tspan id="tspan76" y="0" x="22.871012"><tspan id="tspan78" y="89.426872" x="22.871012">area; gain a Cursed Condition.</tspan></tspan></text>
+  <text id="text28" y="113.54878" x="2.3081141" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan30" y="113.54878" x="2.8940516"><tspan id="tspan32" y="113.54878" x="2.3081141">Your ship becomes lost in a dense fog bank, terrifying </tspan></tspan><tspan id="tspan34" y="118.47066" x="4.8532801"><tspan id="tspan36" y="118.47066" x="4.2673426">the superstitious crew. When the mist finally clears, </tspan></tspan><tspan id="tspan38" y="123.39253" x="3.228219"><tspan id="tspan40" y="123.39253" x="2.6422815">you've somehow travelled hundreds of miles. Move 1 </tspan></tspan><tspan id="tspan42" y="128.31441" x="29.545053"><tspan id="tspan44" y="128.31441" x="29.545053">space and lose 1 Sanity.</tspan></tspan></text>
+  <text style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000024px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;" xml:space="preserve" id="text3067" y="152.32748" x="90.020378"><tspan id="tspan3069" y="152.32748" x="90.020378" style=";font-family:WfGaramond;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.00000024px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">2</tspan></text>
+</svg>

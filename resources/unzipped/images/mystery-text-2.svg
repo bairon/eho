@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="213" height="143" viewBox="0 0 213 143">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="mystery-image-2.png" preserveAspectRatio="none" height="69" width="61" y="0" x="152" id="card-image"/>
+  <image xlink:href="mystery-bg.png" preserveAspectRatio="none" height="143" width="213" y="0" x="0" id="background-image"/>
+  <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:125%;font-family:WfUglyQua;;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="78.636627" y="15.326321" id="text4138"><tspan id="tspan4160">Seed of the Daemon Sultan</tspan></text>
+  <path id="path4146" d="m 12.771341,27.17715 129.915369,0 3.96351,7.706843 0,13.652123 -6.82606,9.248213 -0.055,16.734861 C 98.11504,74.573304 56.46158,74.27424 14.808148,74.078798 l 0.605539,-16.294469 -7.0462567,-9.248213 0,-12.771341 z" style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  <text id="text4211" y="37.331383" x="14.156267" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.875px;line-height:100%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan4213" y="37.331383" x="15.015642"><tspan id="tspan4215" y="37.331383" x="14.156267">A strange green comet has fallen from the sky. Even </tspan></tspan><tspan id="tspan4217" y="44.206379" x="16.618153"><tspan id="tspan4219" y="44.206379" x="15.758779">after the impact, the meteorite continues to slowly </tspan></tspan><tspan id="tspan4221" y="51.081379" x="34.070068"><tspan id="tspan4223" y="51.081379" x="34.070068">burrow itself deeper into the earth.</tspan></tspan></text>
+  <path id="path4160" d="m 27.964833,70.775865 157.219607,0 9.9088,5.064497 5.94528,8.587626 1.98176,4.403911 0,24.882091 -2.42215,8.14724 -5.0645,6.60586 -5.50489,5.2847 0,31.92835 -166.467818,0 0,-34.3505 -8.36743,-9.9088 -4.624106,-8.58763 0,-23.340724 6.38567,-10.569386 z" style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  <text id="text4153" y="77.429237" x="30.430532" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.1875px;line-height:100%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan4155" y="77.429237" x="31.32897"><tspan id="tspan4157" y="77.429237" x="30.430532">When this card enters play, place the Mystery token on </tspan></tspan><tspan id="tspan4159" y="84.616737" x="92.899345"><tspan id="tspan4161" y="84.616737" x="92.899345">Tunguska.</tspan><tspan id="tspan4163" y="84.616737" x="121.523" dx="0"/></tspan><tspan id="tspan4165" y="88.764526" x="108.16325"><tspan id="tspan4167" style="line-height:30.00000119%" y="88.764526" x="107.26481"> </tspan><tspan id="tspan4169" style="line-height:30.00000119%" y="88.764526" x="109.06168" dx="0"/></tspan><tspan id="tspan4171" y="93.960487" x="13.29147"><tspan id="tspan4173" y="93.960487" x="12.393032">As an encounter, an investigator on Tunguska may attempt to search </tspan></tspan><tspan id="tspan4175" y="115.52299" x="146.97894"><tspan id="tspan4177" y="101.14799" x="20.495789">for signs of the impact in the dead forest (</tspan><tspan id="tspan4179" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="101.14799" x="136.6048">|</tspan><tspan id="tspan4181" y="101.14799" x="146.08051">). If he passes, he </tspan></tspan><tspan id="tspan4183" y="119.67078" x="12.950317"><tspan id="tspan4185" y="108.33549" x="12.05188">discovers the strange green meteorite; he may spend 2 Clues to place </tspan></tspan><tspan id="tspan4187" y="124.86674" x="66.183769"><tspan id="tspan4189" y="115.52299" x="66.183769">1 Eldritch token on this card.</tspan><tspan id="tspan4191" y="115.52299" x="148.01176" dx="0"/></tspan><tspan id="tspan4193" y="132.05424" x="108.40787"><tspan id="tspan4195" style="line-height:30.00000119%" y="119.67078" x="107.50943"> </tspan><tspan id="tspan4197" style="line-height:30.00000119%" y="119.67078" x="109.3063" dx="0"/></tspan><tspan id="tspan4199" y="0" x="21.969637"><tspan id="tspan4201" y="124.86674" x="21.071199">At the end of the Mythos Phase, if there are Eldritch tokens on </tspan></tspan><tspan id="tspan4203" y="0" x="115.74582"><tspan id="tspan4205" y="132.05424" x="46.01865">this card equal to half </tspan><tspan id="tspan4207" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="132.05424" x="107.74411">~</tspan><tspan id="tspan4209" y="132.05424" x="115.74582">, solve this Mystery.</tspan></tspan></text>
+</svg>

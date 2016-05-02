@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="expedition-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text100" y="70.656677" x="12.819468" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan102" y="70.656677" x="13.405405"><tspan id="tspan104" y="70.656677" x="12.819468">You find a lost treasure. Gain 1 Artifact. From </tspan></tspan><tspan id="tspan106" y="75.578552" x="14.403329"><tspan id="tspan108" y="75.578552" x="13.817391">this height, you can survey the land for miles </tspan></tspan><tspan id="tspan110" y="90.344177" x="21.544443"><tspan id="tspan112" y="80.500427" x="13.277231">(</tspan><tspan id="tspan114" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="80.500427" x="14.778696">|</tspan><tspan id="tspan116" y="80.500427" x="20.958506">-1). If you pass, you see drawings that are </tspan></tspan><tspan id="tspan118" y="0" x="12.164865"><tspan id="tspan120" y="85.422302" x="11.578928">hundreds of feet across; gain 1 Clue. If you fail, </tspan></tspan><tspan id="tspan122" y="0" x="29.056345"><tspan id="tspan124" y="90.344177" x="29.056345">vertigo sets in; lose 1 Sanity.</tspan></tspan></text>
+  <text x="90.255959" y="152.05226" id="text3067" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan x="90.255959" y="152.05226" id="tspan3069" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;writing-mode:lr-tb;text-anchor:start">3</tspan></text>
+  <text id="text94" y="12.723205" x="6.8961301" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:94.99999881%;font-family:WfUglyQua;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan96" y="12.723205" x="6.8961301"><tspan id="tspan98" y="12.723205" x="6.8961301">The Amazon</tspan></tspan></text>
+  <path style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 3.2508935,25.660881 0,36.688655 94.9725305,0 0,-15.557847 -44.583682,-7.66282 0,-13.467987 z" id="path4203"/>
+  <text id="text68" y="28.633789" x="4.0785522" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan70" y="28.633789" x="4.6644897"><tspan id="tspan72" y="28.633789" x="4.0785522">You've heard rumors that a </tspan></tspan><tspan id="tspan74" y="33.555664" x="8.8759155"><tspan id="tspan76" x="8.289978">particular secret of the </tspan></tspan><tspan id="tspan78" y="38.477539" x="5.0352783"><tspan id="tspan80" x="4.4493408">ancients is visible from the </tspan></tspan><tspan id="tspan82" y="43.399414" x="10.445496"><tspan id="tspan84" x="9.8595581">top of a hill. You find that </tspan></tspan><tspan id="tspan86" y="48.321289" x="6.7468987"><tspan id="tspan88" x="6.7468987">climbing the hillside is not an easy task (</tspan><tspan id="tspan90" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons">}</tspan><tspan id="tspan92">).</tspan></tspan></text>
+  <path style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 13.700194,112.50618 -7.1984071,6.73399 6.0373741,8.59165 -0.232207,8.35944 -7.8950272,5.10855 9.5204742,9.98488 65.946696,0.23221 3.018686,-7.66282 10.913714,0.23221 4.411927,-14.16461 -11.14592,-17.1833 z" id="path4237"/>
+  <text id="text34" y="116.17611" x="17.20406" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan36" y="116.17611" x="17.789997"><tspan id="tspan38" y="116.17611" x="17.20406">You take too long climbing, and you </tspan></tspan><tspan id="tspan40" y="121.09798" x="13.987546"><tspan id="tspan42" y="121.09798" x="13.401608">stumble around in the dark. Gain a Leg </tspan></tspan><tspan id="tspan44" y="135.86362" x="86.678986"><tspan id="tspan46" y="126.01986" x="12.008573">Injury Condition. You yell for help (</tspan><tspan id="tspan48" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="126.01986" x="78.018097">]</tspan><tspan id="tspan50" y="126.01986" x="86.093048">). If </tspan></tspan><tspan id="tspan52" y="140.78549" x="15.610828"><tspan id="tspan54" y="130.94174" x="15.024891">you pass, the rescue party's flashlights reveal </tspan></tspan><tspan id="tspan56" y="145.70737" x="14.258241"><tspan id="tspan58" y="135.86362" x="13.672303">what you tripped over; gain 1 Artifact. If you </tspan></tspan><tspan id="tspan60" y="0" x="11.221021"><tspan id="tspan62" y="140.78549" x="10.635083">fail, you return to your camp alone in the cold </tspan></tspan><tspan id="tspan64" y="0" x="23.666662"><tspan id="tspan66" y="145.70737" x="23.666662">and dark; lose 2 Health.</tspan></tspan></text>
+</svg>

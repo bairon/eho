@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 26.000001 39.999999" height="40" width="26" version="1.1" id="svg2">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6">
+    <clipPath id="clip4140">
+      <rect ry="9" rx="9" y="0" x="0" height="263" width="169" id="rect4142"/>
+    </clipPath>
+  <style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}@font-face {
+  font-family: 'WfBodoniOrnaments';
+  src: url('../fonts/GSNYTJ+BodoniOrnamentsITCTT-4930.ttf') format('truetype');
+}</style></defs>
+  <g id="g4320" transform="translate(0,0.5499993)">
+    <image xlink:href="../svgresources/round-overview-bg.jpg" width="169" height="263" preserveAspectRatio="none" id="image10" x="0" y="0" clip-path="url(#clip4140)" transform="scale(0.15,0.15)"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.15000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 3.9597236,5.263494 20.921526,5.145294" id="path4144"/>
+    <text transform="matrix(0.99997485,-0.00709207,0.00709207,0.99997485,0,0)" id="text4352" y="6.6203322" x="1.6787217" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.20000005px;line-height:100%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan4354" y="6.6203322" x="1.6787217"><tspan id="tspan4356" y="6.6203322" x="1.6787217">Each action can be performed once per round.</tspan></tspan></text>
+    <g id="g4205-9" transform="matrix(0.14999623,-0.00106381,0.00106381,0.14999623,0.12945492,14.310315)">
+      <text id="text4334" y="45.616535" x="24.547934" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:100%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan4336" y="53.616535" x="92.37606"><tspan id="tspan4338" style="font-weight:bold" y="45.616535" x="24.547934">Component Actions:</tspan><tspan id="tspan4340" y="45.616535" x="92.37606"> Perform the action </tspan></tspan><tspan id="tspan4342" y="61.616535" x="24.547934"><tspan id="tspan4344" y="53.616535" x="24.547934">or local action of a component. Each </tspan></tspan><tspan id="tspan4346" y="0" x="24.547934"><tspan id="tspan4348" y="61.616535" x="24.547934">component action counts separately.</tspan><tspan id="tspan4350" y="61.616535" x="136.73543" dx="0"/></tspan></text>
+      <text id="text4201-8" y="45.904743" x="11.910035" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:WfBodoniOrnaments;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan y="45.904743" x="11.910035" id="tspan4203-5">^</tspan></text>
+    </g>
+    <g id="g4205-1" transform="matrix(0.14999623,-0.00106381,0.00106381,0.14999623,0.07035458,9.9285165)">
+      <text id="text4326" y="45.616535" x="24.547934" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:100%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan4328" y="0" x="45.407307"><tspan id="tspan4330" style="font-weight:bold" y="45.616535" x="24.547934">Focus:</tspan><tspan id="tspan4332" y="45.616535" x="45.407307"> Gain 1 Focus.</tspan></tspan></text>
+      <text id="text4201-82" y="45.904743" x="11.910035" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:WfBodoniOrnaments;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan y="45.904743" x="11.910035" id="tspan4203-58">^</tspan></text>
+    </g>
+    <g id="g4205-5" transform="matrix(0.14999623,-0.00106381,0.00106381,0.14999623,0.1226949,8.3058165)">
+      <text id="text4318" y="45.616535" x="24.547934" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:100%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan4320" y="0" x="40.641682"><tspan id="tspan4322" style="font-weight:bold" y="45.616535" x="24.547934">Rest:</tspan><tspan id="tspan4324" y="45.616535" x="40.641682"> Recover 1 Health and 1 Sanity.</tspan></tspan></text>
+      <text id="text4201-3" y="45.904743" x="11.910035" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:WfBodoniOrnaments;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan y="45.904743" x="11.910035" id="tspan4203-581">^</tspan></text>
+    </g>
+    <g id="g4205-2" transform="matrix(0.14999623,-0.00106381,0.00106381,0.14999623,0.06359456,5.551215)">
+      <text id="text4302" y="45.616535" x="24.547934" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:100%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan4304" y="0" x="103.34481"><tspan id="tspan4306" style="font-weight:bold" y="45.616535" x="24.547934">Acquire Assets:</tspan><tspan id="tspan4308" y="45.616535" x="73.391685"> Test </tspan><tspan id="tspan4310" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;font-family:WfEldritchHorrorIcons;" y="45.616535" x="89.56356">]</tspan><tspan id="tspan4312" y="45.616535" x="103.34481"> and gain Assets </tspan></tspan><tspan id="tspan4314" y="0" x="24.547934"><tspan id="tspan4316" y="53.616535" x="24.547934">of equal or lesser value from reserve.</tspan></tspan></text>
+      <text id="text4201-5" y="45.904743" x="11.910035" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:WfBodoniOrnaments;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan y="45.904743" x="11.910035" id="tspan4203-4">^</tspan></text>
+    </g>
+    <g id="g4205-6" transform="matrix(0.14999623,-0.00106381,0.00106381,0.14999623,0.00449421,3.9876165)">
+      <text id="text4294" y="45.616535" x="24.547934" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:100%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan4296" y="0" x="84.391685"><tspan id="tspan4298" style="font-weight:bold" y="45.616535" x="24.547934">Prepare for Travel:</tspan><tspan id="tspan4300" y="45.616535" x="84.391685"> Gain 1 travel ticket.</tspan></tspan></text>
+      <text id="text4201-820" y="45.904743" x="11.910035" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:WfBodoniOrnaments;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan y="45.904743" x="11.910035" id="tspan4203-3">^</tspan></text>
+    </g>
+    <g id="g4205-9-7" transform="matrix(0.14999623,-0.00106381,0.00106381,0.14999623,0.07035458,11.546717)">
+      <text id="text4282" y="45.616535" x="24.547934" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:100%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan4284" y="53.616535" x="45.094807"><tspan id="tspan4286" style="font-weight:bold" y="45.616535" x="24.547934">Trade:</tspan><tspan id="tspan4288" y="45.616535" x="45.094807"> Trade possessions with another </tspan></tspan><tspan id="tspan4290" y="0" x="24.547934"><tspan id="tspan4292" y="53.616535" x="24.547934">investigator on your space.</tspan></tspan></text>
+      <text id="text4201-8-3" y="45.904743" x="11.910035" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:WfBodoniOrnaments;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan y="45.904743" x="11.910035" id="tspan4203-5-4">^</tspan></text>
+    </g>
+    <g id="g4205-8" transform="matrix(0.14999623,-0.00106381,0.00106381,0.14999623,-0.05460613,1.2876165)">
+      <text id="text4270" y="45.616535" x="24.547934" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:100%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan4272" y="53.616535" x="46.438557"><tspan id="tspan4274" style="font-weight:bold" y="45.616535" x="24.547934">Travel:</tspan><tspan id="tspan4276" y="45.616535" x="46.438557"> Move 1 space and spend travel </tspan></tspan><tspan id="tspan4278" y="0" x="24.547934"><tspan id="tspan4280" y="53.616535" x="24.547934">tickets to move additional spaces.</tspan></tspan></text>
+      <text id="text4201-0" y="45.904743" x="11.910035" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:WfBodoniOrnaments;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan y="45.904743" x="11.910035" id="tspan4203-7">^</tspan></text>
+    </g>
+    <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.25px;line-height:125%;font-family:WfUglyQua;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="8.8381557" y="4.485353" id="text4581" transform="matrix(0.9999714,-0.0075628,0.0075628,0.9999714,0,0)"><tspan id="tspan4583" x="8.8381557" y="4.485353">A<tspan style="font-size:1.5px" id="tspan4587">CTIONS</tspan></tspan></text>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.15000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 4.3143253,27.345294 16.9618007,-0.1182" id="path4144-0"/>
+    <text transform="matrix(0.99997485,-0.00709207,0.00709207,0.99997485,0,0)" id="text4252" y="28.70372" x="1.8243701" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.20000005px;line-height:100%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan4254" y="31.10372" x="15.790776"><tspan id="tspan4256" y="28.70372" x="1.8243701">Resolve a </tspan><tspan id="tspan4258" style="font-weight:bold" y="28.70372" x="6.3970265">Combat Encounter</tspan><tspan id="tspan4260" y="28.70372" x="15.790776"> against each </tspan></tspan><tspan id="tspan4262" y="0" x="1.8243701"><tspan id="tspan4264" y="29.903721" x="1.8243701">Monster on the space. Then, if there are no </tspan></tspan><tspan id="tspan4266" y="0" x="1.8243701"><tspan id="tspan4268" y="31.10372" x="1.8243701">Monsters on the space, choose one:</tspan></tspan></text>
+    <g id="g4205-6-8" transform="matrix(0.14999623,-0.00106381,0.00106381,0.14999623,0.14297494,28.464915)">
+      <text id="text4240" y="45.616535" x="24.547934" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:100%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan4242" y="53.616535" x="83.12606"><tspan id="tspan4244" style="font-weight:bold" y="45.616535" x="24.547934">Token Encounter:</tspan><tspan id="tspan4246" y="45.616535" x="83.12606"> Resolve an encounter </tspan></tspan><tspan id="tspan4248" y="0" x="24.547934"><tspan id="tspan4250" y="53.616535" x="24.547934">that corresponds to a token on the space.</tspan></tspan></text>
+      <text id="text4201-820-5" y="45.904743" x="11.910035" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:WfBodoniOrnaments;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan y="45.904743" x="11.910035" id="tspan4203-3-3">^</tspan></text>
+    </g>
+    <g id="g4205-8-3" transform="matrix(0.14999623,-0.00106381,0.00106381,0.14999623,0.13621492,25.764917)">
+      <text id="text4228" y="45.616535" x="24.547934" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:100%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan4230" y="53.616535" x="91.860435"><tspan id="tspan4232" style="font-weight:bold" y="45.616535" x="24.547934">Location Encounter:</tspan><tspan id="tspan4234" y="45.616535" x="91.860435"> Resolve an </tspan></tspan><tspan id="tspan4236" y="0" x="24.547934"><tspan id="tspan4238" y="53.616535" x="24.547934">encounter based on the space’s type or art.</tspan></tspan></text>
+      <text id="text4201-0-3" y="45.904743" x="11.910035" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:WfBodoniOrnaments;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan y="45.904743" x="11.910035" id="tspan4203-7-1">^</tspan></text>
+    </g>
+    <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.25px;line-height:125%;font-family:WfUglyQua;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="7.2347994" y="26.555681" id="text4581-1" transform="matrix(0.9999714,-0.0075628,0.0075628,0.9999714,0,0)"><tspan id="tspan4583-2" x="7.2347994" y="26.555681">E<tspan style="font-size:1.5px" id="tspan4587-4">NCOUNTERS</tspan></tspan></text>
+  </g>
+</svg>

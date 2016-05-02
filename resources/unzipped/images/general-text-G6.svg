@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="general-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text86" y="21.757357" x="5.726902" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan88" y="21.757357" x="6.3128395"><tspan id="tspan90" y="21.757357" x="5.726902">You wander through the aisles of an antique book </tspan></tspan><tspan id="tspan92" y="26.679232" x="5.8962746"><tspan id="tspan94" y="26.679232" x="5.3103371">store. Although many extremely rare books can be </tspan></tspan><tspan id="tspan96" y="31.601107" x="8.7847633"><tspan id="tspan98" y="31.601107" x="8.1988258">found here, the organizational system is almost </tspan></tspan><tspan id="tspan100" y="46.36673" x="55.467503"><tspan id="tspan102" y="36.52298" x="5.8367653">impossible to decipher (</tspan><tspan id="tspan104" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="36.52298" x="49.260227">[</tspan><tspan id="tspan106" y="36.52298" x="54.881565">-1). If you pass, you're </tspan></tspan><tspan id="tspan108" y="0" x="7.365696"><tspan id="tspan110" y="41.444855" x="6.7797585">able to track down a hidden gem; gain 1 TOME </tspan></tspan><tspan id="tspan112" y="0" x="43.139927"><tspan id="tspan114" y="46.36673" x="43.139927">Artifact.</tspan></tspan></text>
+  <text id="text64" y="64.817497" x="3.7868443" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan66" y="64.817497" x="4.3727818"><tspan id="tspan68" y="64.817497" x="3.7868443">You help a young woman search the countryside for </tspan></tspan><tspan id="tspan70" y="79.583122" x="31.142801"><tspan id="tspan72" y="69.739372" x="4.949564">her uncle (</tspan><tspan id="tspan74" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="69.739372" x="24.377054">|</tspan><tspan id="tspan76" y="69.739372" x="30.556864">). If you pass, you find the eccentric, </tspan></tspan><tspan id="tspan78" y="0" x="2.9491367"><tspan id="tspan80" y="74.661247" x="2.3631992">old man, and he gives you a gift for helping his niece; </tspan></tspan><tspan id="tspan82" y="0" x="16.503519"><tspan id="tspan84" y="79.583122" x="16.503519">gain 1 TOME Artifact from the deck.</tspan></tspan></text>
+  <text id="text30" y="113.54878" x="4.2215662" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan32" y="113.54878" x="4.8075037"><tspan id="tspan34" y="113.54878" x="4.2215662">The ship ahead of you seemed abandoned, but now </tspan></tspan><tspan id="tspan36" y="118.47066" x="4.9265223"><tspan id="tspan38" y="118.47066" x="4.3405848">you see that it is crewed entirely by ghostly Figures. </tspan></tspan><tspan id="tspan40" y="123.39253" x="4.3405848"><tspan id="tspan42" y="123.39253" x="3.7546473">You try to discern what ship this had once been and </tspan></tspan><tspan id="tspan44" y="138.15816" x="50.542671"><tspan id="tspan46" y="128.31441" x="5.2973108">what happened to it (</tspan><tspan id="tspan48" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="128.31441" x="44.335396">[</tspan><tspan id="tspan50" y="128.31441" x="49.956734">). If you pass, the spectral </tspan></tspan><tspan id="tspan52" y="0" x="93.133003"><tspan id="tspan54" y="133.23628" x="1.9464809">captain grants you aid; gain 1 Clue or improve (</tspan><tspan id="tspan56" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="133.23628" x="88.83918">{</tspan><tspan id="tspan58" y="133.23628" x="92.547066">). If </tspan></tspan><tspan id="tspan60" y="0" x="19.652781"><tspan id="tspan62" y="138.15816" x="19.652781">you fail, gain a Cursed Condition.</tspan></tspan></text>
+  <text style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000024px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;" xml:space="preserve" id="text3067" y="152.32748" x="90.020378"><tspan id="tspan3069" y="152.32748" x="90.020378" style=";font-family:WfGaramond;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.00000024px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">6</tspan></text>
+</svg>

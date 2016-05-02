@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="general-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text84" y="21.757357" x="5.9237404" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan86" y="21.757357" x="6.5096779"><tspan id="tspan88" y="21.757357" x="5.9237404">The Syndicate is engaged in a gang war with local </tspan></tspan><tspan id="tspan90" y="26.679232" x="4.9303932"><tspan id="tspan92" y="26.679232" x="4.3444557">thugs and is under intense legal scrutiny. You try to </tspan></tspan><tspan id="tspan94" y="41.444855" x="83.908356"><tspan id="tspan96" y="31.601107" x="3.2229347">trade your political clout for assistance (</tspan><tspan id="tspan98" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="31.601107" x="75.247467">]</tspan><tspan id="tspan100" y="31.601107" x="83.322418">). If you </tspan></tspan><tspan id="tspan102" y="0" x="6.3265724"><tspan id="tspan104" y="36.52298" x="5.7406349">pass, gain 1 SERVICE Asset from the reserve or 1 </tspan></tspan><tspan id="tspan106" y="0.9375" x="14.607517"><tspan id="tspan108" y="41.444855" x="14.607517">random SERVICE Asset from the deck.</tspan></tspan></text>
+  <text id="text54" y="64.817497" x="5.4622593" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan56" y="64.817497" x="6.0481968"><tspan id="tspan58" y="64.817497" x="5.4622593">You find a primitive painting on the wall of a cave </tspan></tspan><tspan id="tspan60" y="69.739372" x="2.8484287"><tspan id="tspan62" y="69.739372" x="2.2624912">and decide to explore the subterranean depths that lie </tspan></tspan><tspan id="tspan64" y="74.661247" x="8.2454624"><tspan id="tspan66" y="74.661247" x="7.6595249">beyond. The dark, constricting passages create a </tspan></tspan><tspan id="tspan68" y="89.426872" x="68.363564"><tspan id="tspan70" y="79.583122" x="5.4668369">terrible sense of claustrophobia (</tspan><tspan id="tspan72" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="79.583122" x="64.06974">{</tspan><tspan id="tspan74" y="79.583122" x="67.777626">-1). If you pass, </tspan></tspan><tspan id="tspan76" y="0" x="5.0090733"><tspan id="tspan78" y="84.504997" x="4.4231358">gain 1 Artifact left by an ancient civilization. If you </tspan></tspan><tspan id="tspan80" y="0" x="34.928505"><tspan id="tspan82" y="89.426872" x="34.928505">fail, lose 2 Sanity.</tspan></tspan></text>
+  <text id="text28" y="113.54878" x="6.2265711" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan30" y="113.54878" x="6.8125086"><tspan id="tspan32" y="113.54878" x="6.2265711">A large wave washes across the deck, and a prized </tspan></tspan><tspan id="tspan34" y="118.47066" x="4.5786219"><tspan id="tspan36" y="118.47066" x="3.9926844">possession slips from your fingers. You dive into the </tspan></tspan><tspan id="tspan38" y="123.39253" x="7.9889612"><tspan id="tspan40" y="123.39253" x="7.4030237">water, holding your breath as long as you can to </tspan></tspan><tspan id="tspan42" y="0" x="91.549141"><tspan id="tspan44" y="128.31441" x="3.5303431">recover the object before it sinks out of reach (</tspan><tspan id="tspan46" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="128.31441" x="87.255318">{</tspan><tspan id="tspan48" y="128.31441" x="90.963203">). If </tspan></tspan><tspan id="tspan50" y="0" x="17.711863"><tspan id="tspan52" y="133.23628" x="17.711863">you fail, discard 1 ITEM possession.</tspan></tspan></text>
+  <text style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000024px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;" xml:space="preserve" id="text3067" y="152.32748" x="90.020378"><tspan id="tspan3069" y="152.32748" x="90.020378" style=";font-family:WfGaramond;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.00000024px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">12</tspan></text>
+</svg>

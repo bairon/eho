@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="research-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text78" y="23.269703" x="2.1944542" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan80" y="23.269703" x="2.7803917"><tspan id="tspan82" y="23.269703" x="2.1944542">You see dozens of people with the distinct features of </tspan></tspan><tspan id="tspan84" y="28.191578" x="5.284359"><tspan id="tspan86" y="28.191578" x="4.6984215">deep one hybrids. They watch you constantly, and </tspan></tspan><tspan id="tspan88" y="42.957203" x="64.436584"><tspan id="tspan90" y="33.113453" x="3.746273">you'll have to fight to escape (</tspan><tspan id="tspan92" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="33.113453" x="57.753231">}</tspan><tspan id="tspan94" y="33.113453" x="63.850643">). If you pass, you </tspan></tspan><tspan id="tspan96" y="47.879078" x="5.737545"><tspan id="tspan98" y="38.035328" x="5.1516075">identify more families descended from deep ones; </tspan></tspan><tspan id="tspan100" y="52.800953" x="4.4283409"><tspan id="tspan102" y="42.957203" x="3.8424034">gain this Clue. If you fail; they attack and turn you </tspan></tspan><tspan id="tspan104" y="30492" x="2.789547"><tspan id="tspan106" y="47.879078" x="2.2036095">over to the police; lose 1 Health and gain a Detained </tspan></tspan><tspan id="tspan108" y="0" x="39.790585"><tspan id="tspan110" y="52.800953" x="39.790585">Condition.</tspan></tspan></text>
+  <text id="text52" y="75.17601" x="1.645998" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan54" y="75.17601" x="2.2319355"><tspan id="tspan56" y="75.17601" x="1.645998">The mi-go have lured you into the wild to put an end </tspan></tspan><tspan id="tspan58" y="80.097885" x="4.6214619"><tspan id="tspan60" y="80.097885" x="4.0355244">to your investigation. You try to drive the creatures </tspan></tspan><tspan id="tspan62" y="94.86351" x="89.033081"><tspan id="tspan64" y="85.01976" x="4.7221699">off before they can do any lasting damage (</tspan><tspan id="tspan66" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="85.01976" x="82.349731">}</tspan><tspan id="tspan68" y="85.01976" x="88.447144">). If </tspan></tspan><tspan id="tspan70" y="0" x="3.1016865"><tspan id="tspan72" y="89.941635" x="2.515749">you pass, gain this Clue. If you fail, become Delayed </tspan></tspan><tspan id="tspan74" y="0" x="10.082582"><tspan id="tspan76" y="94.86351" x="10.082582">and move this Clue to the nearest Sea space.</tspan></tspan></text>
+  <text id="text26" y="119.8141" x="4.5251784" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan28" y="119.8141" x="5.1111159"><tspan id="tspan30" y="119.8141" x="4.5251784">During the night, you hear the sounds of the crew </tspan></tspan><tspan id="tspan32" y="124.73598" x="2.4515088"><tspan id="tspan34" y="124.73598" x="2.4515088">battling some unseen enemy. Suddenly, you are face-</tspan></tspan><tspan id="tspan36" y="129.65785" x="4.0628366"><tspan id="tspan38" y="129.65785" x="3.4768994">to-face with one of the fish-like monstrosities! Gain </tspan></tspan><tspan id="tspan40" y="134.57973" x="5.6558547"><tspan id="tspan42" y="134.57973" x="5.0699172">this Clue and lose 1 Sanity. A Deep One Monster </tspan></tspan><tspan id="tspan44" y="139.5016" x="2.675813"><tspan id="tspan46" y="139.5016" x="2.0898755">ambushes you. If you defeat it, you find an odd relic; </tspan></tspan><tspan id="tspan48" y="144.42348" x="20.377535"><tspan id="tspan50" y="144.42348" x="20.377535">gain the Ruby of R'lyeh Artifact.</tspan></tspan></text>
+  <text x="89.3032" y="151.89615" id="text3067" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan x="89.3032" y="151.89615" id="tspan3069" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;writing-mode:lr-tb;text-anchor:start">8</tspan></text>
+</svg>

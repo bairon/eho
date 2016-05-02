@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="europe-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text96" y="19.927874" x="9.1209364" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan98" y="19.927874" x="9.7068739"><tspan id="tspan100" y="19.927874" x="9.1209364">You are invited to journey down to Oxford to </tspan></tspan><tspan id="tspan102" y="24.849749" x="16.930384"><tspan id="tspan104" y="24.849749" x="16.344446">examine John Dee's translation of the </tspan></tspan><tspan id="tspan106" y="29.771624" x="2.3185678"><tspan id="tspan108" y="29.771624" x="1.7326304">Necronomicon. You may become Delayed to spawn 2 </tspan></tspan><tspan id="tspan110" y="34.693501" x="44.71664"><tspan id="tspan112" y="34.693501" x="44.71664">Clues.</tspan></tspan></text>
+  <text id="text62" y="64.405563" x="9.1538401" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan64" y="64.405563" x="9.7397776"><tspan id="tspan66" y="64.405563" x="9.1538401">You are invigorated by a visit to a magnificent </tspan></tspan><tspan id="tspan68" y="79.171188" x="44.50235"><tspan id="tspan70" y="69.327438" x="3.5233464">cathedral. Improve (</tspan><tspan id="tspan72" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="69.327438" x="40.208527">{</tspan><tspan id="tspan74" y="69.327438" x="43.916412">). In the basement, you find a </tspan></tspan><tspan id="tspan76" y="84.093063" x="5.4230657"><tspan id="tspan78" y="74.249313" x="4.8371282">mosaic depicting robed men bowing before a great </tspan></tspan><tspan id="tspan80" y="89.014938" x="3.1800237"><tspan id="tspan82" y="79.171188" x="2.5940862">fire. To your horror, it is surrounded by scorch marks </tspan></tspan><tspan id="tspan84" y="0" x="70.256134"><tspan id="tspan86" y="84.093063" x="4.8691716">that resemble human silhouettes (</tspan><tspan id="tspan88" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="84.093063" x="65.962311">{</tspan><tspan id="tspan90" y="84.093063" x="69.670197">-1). If you fail, </tspan></tspan><tspan id="tspan92" y="0" x="26.091095"><tspan id="tspan94" y="89.014938" x="26.091095">gain a Paranoia Condition.</tspan></tspan></text>
+  <text id="text28" y="118.88033" x="5.0612793" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan30" y="118.88033" x="5.6472168"><tspan id="tspan32" y="118.88033" x="5.0612793">You suspect that you are being followed. You use a </tspan></tspan><tspan id="tspan34" y="123.8022" x="9.1262207"><tspan id="tspan36" y="123.8022" x="8.5402832">reflective window to watch the people walking </tspan></tspan><tspan id="tspan38" y="138.56783" x="36.701904"><tspan id="tspan40" y="128.72408" x="6.7092285">behind you (</tspan><tspan id="tspan42" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="128.72408" x="29.936157">|</tspan><tspan id="tspan44" y="128.72408" x="36.115967">). If you pass, you spot someone </tspan></tspan><tspan id="tspan46" y="143.4897" x="2.5893552"><tspan id="tspan48" y="133.64595" x="2.0034177">stalking you and escape into a mosque, and the imam </tspan></tspan><tspan id="tspan50" y="148.41158" x="3.3400877"><tspan id="tspan52" y="138.56783" x="2.7541502">there prays for your safety; gain a Blessed Condition. </tspan></tspan><tspan id="tspan54" y="0" x="6.3521729"><tspan id="tspan56" y="143.4897" x="5.7662354">If you fail, the assassin finds you first; gain a Back </tspan></tspan><tspan id="tspan58" y="0" x="34.129272"><tspan id="tspan60" y="148.41158" x="34.129272">Injury Condition.</tspan></tspan></text>
+  <text style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000024px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;" xml:space="preserve" id="text3067" y="152.23763" x="89.825554"><tspan id="tspan3069" y="152.23763" x="89.825554" style=";font-family:WfGaramond;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.00000024px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">8</tspan></text>
+</svg>

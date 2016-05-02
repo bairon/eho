@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 155" height="155" width="100" version="1.1" id="svg2">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="otherworld-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text86" y="70.71479" x="2.7764521" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan88" y="70.71479" x="3.3623896"><tspan id="tspan90" y="70.71479" x="2.7764521">The ghouls direct you into the Tower of Koth in the </tspan></tspan><tspan id="tspan92" y="75.636665" x="5.0744257"><tspan id="tspan94" y="75.636665" x="4.4884882">City of the Gugs. As you ascend the tower's stairs, </tspan></tspan><tspan id="tspan96" y="80.55854" x="3.3486567"><tspan id="tspan98" y="80.55854" x="2.7627192">an enormous gug chases after you. The sound of the </tspan></tspan><tspan id="tspan100" y="95.324165" x="68.973656"><tspan id="tspan102" y="85.480415" x="6.6628656">monstrosity rattles your nerves (</tspan><tspan id="tspan104" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="85.480415" x="64.679832">{</tspan><tspan id="tspan106" y="85.480415" x="68.387718">). If you pass, </tspan></tspan><tspan id="tspan108" y="0" x="5.1568232"><tspan id="tspan110" y="90.40229" x="4.5708857">close this Gate. If you fail, you hide, waiting for it </tspan></tspan><tspan id="tspan112" y="0" x="27.033348"><tspan id="tspan114" y="95.324165" x="27.033348">to go away; lose 1 Sanity.</tspan></tspan></text>
+  <text x="89.930534" y="152.17839" id="text3067" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan x="89.930534" y="152.17839" id="tspan3069" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;writing-mode:lr-tb;text-anchor:start">18</tspan></text>
+  <text id="text80" y="11.359901" x="4.1788311" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:94.99999881%;font-family:WfUglyQua;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan82" y="11.359901" x="4.1788311"><tspan id="tspan84" y="11.359901" x="4.1788311">The Underworld</tspan></tspan></text>
+  <path style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 2.2987288,27.121822 0,35.137712 95.3972462,0 0,-24.629237 -24.136653,0 -11.165254,-10.508475 z" id="path4426"/>
+  <text id="text54" y="30.095123" x="3.4690666" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan56" y="30.095123" x="4.0550041"><tspan id="tspan58" y="30.095123" x="3.4690666">You find yourself surrounded by </tspan></tspan><tspan id="tspan60" y="35.016998" x="5.1631088"><tspan id="tspan62" y="35.016998" x="4.5771713">ghouls. However, they don't seem </tspan></tspan><tspan id="tspan64" y="39.938873" x="3.9549255"><tspan id="tspan66" y="39.938873" x="3.368988">to be antagonistic toward you. In fact, </tspan></tspan><tspan id="tspan68" y="44.860748" x="6.2669067"><tspan id="tspan70" y="44.860748" x="5.6809692">you believe you could persuade them to help you </tspan></tspan><tspan id="tspan72" y="0" x="53.448608"><tspan id="tspan74" y="49.782623" x="43.872192">(</tspan><tspan id="tspan76" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="49.782623" x="45.373657">]</tspan><tspan id="tspan78" y="49.782623" x="53.448608">).</tspan></tspan></text>
+  <path style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 9.5233051,114.77225 -3.1197034,7.22457 0,21.18115 5.9110173,6.56779 67.976695,0 1.970339,-5.91101 13.135593,0 0,-24.62924 -6.075212,-4.26906 z" id="path4460"/>
+  <text id="text32" y="117.74512" x="10.237823" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan34" y="117.74512" x="10.82376"><tspan id="tspan36" y="117.74512" x="10.237823">Your well-reasoned arguments seem to have </tspan></tspan><tspan id="tspan38" y="122.66699" x="9.3686323"><tspan id="tspan40" x="8.7826948">no impact, but bribery might. You may discard </tspan></tspan><tspan id="tspan42" y="127.58887" x="8.3970337"><tspan id="tspan44" x="7.8110962">1 ITEM possession to close this Gate. If you do </tspan></tspan><tspan id="tspan46" y="132.51074" x="7.0969849"><tspan id="tspan48" x="6.5110474">not discard the possession, the ghouls attack you; </tspan></tspan><tspan id="tspan50" y="137.43262" x="8.5984497"><tspan id="tspan52" x="8.5984497">lose 1 Health and gain an INJURY Condition.</tspan></tspan></text>
+</svg>

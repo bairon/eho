@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="213" height="143" viewBox="0 0 213 143">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="mystery-image-10.png" preserveAspectRatio="none" height="69" width="61" y="0" x="152" id="card-image"/>
+  <image xlink:href="mystery-bg.png" preserveAspectRatio="none" height="143" width="213" y="0" x="0" id="background-image"/>
+  <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:125%;font-family:WfUglyQua;;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="78.636627" y="15.326321" id="text4138"><tspan id="tspan4160">Nature of the All-Mother</tspan></text>
+  <path id="path4146" d="m 12.771341,27.17715 129.915369,0 3.96351,7.706843 0,13.652123 -6.82606,9.248213 -0.055,16.734861 C 98.11504,74.573304 56.46158,74.27424 14.808148,74.078798 l 0.605539,-16.294469 -7.0462567,-9.248213 0,-12.771341 z" style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  <text id="text4199" y="36.890991" x="19.131243" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.875px;line-height:100%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan4201" y="36.890991" x="19.990618"><tspan id="tspan4203" y="36.890991" x="19.131243">Shub-Niggurath naturally corrupts all life that </tspan></tspan><tspan id="tspan4205" y="43.765987" x="12.16686"><tspan id="tspan4207" y="43.765987" x="11.307485">encounters her. Everywhere her worshipers are found, </tspan></tspan><tspan id="tspan4209" y="50.640987" x="21.43457"><tspan id="tspan4211" y="50.640987" x="21.43457">all living things grow more vicious and feral.</tspan></tspan></text>
+  <path id="path4160" d="m 27.964833,70.775865 157.219607,0 9.9088,5.064497 5.94528,8.587626 1.98176,4.403911 0,24.882091 -2.42215,8.14724 -5.0645,6.60586 -5.50489,5.2847 0,31.92835 -166.467818,0 0,-34.3505 -8.36743,-9.9088 -4.624106,-8.58763 0,-23.340724 6.38567,-10.569386 z" style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  <text id="text4152" y="83.778419" x="28.114246" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.1875px;line-height:100%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan4154" y="83.778419" x="29.012684"><tspan id="tspan4156" y="83.778419" x="28.114246">When this card enters play, move each Clue on the game </tspan></tspan><tspan id="tspan4158" y="90.965919" x="54.456043"><tspan id="tspan4161" y="90.965919" x="54.456043">board to the nearest Wilderness space.</tspan><tspan id="tspan4163" y="90.965919" x="159.96629" dx="0"/></tspan><tspan id="tspan4165" y="95.113708" x="108.16325"><tspan id="tspan4167" style="line-height:30.00000119%" y="95.113708" x="107.26481"> </tspan><tspan id="tspan4169" style="line-height:30.00000119%" y="95.113708" x="109.06168" dx="0"/></tspan><tspan id="tspan4171" y="100.30967" x="14.112698"><tspan id="tspan4173" y="100.30967" x="13.21426">After an investigator resolves a Research Encounter, he may spend 1 </tspan></tspan><tspan id="tspan4175" y="107.49717" x="10.921814"><tspan id="tspan4177" y="107.49717" x="10.921814">Clue he gained from that encounter and place that Clue on this card.</tspan><tspan id="tspan4179" y="107.49717" x="202.66803" dx="0"/></tspan><tspan id="tspan4181" y="111.64497" x="107.69336"><tspan id="tspan4183" style="line-height:30.00000119%" y="111.64497" x="106.79492"> </tspan><tspan id="tspan4185" style="line-height:30.00000119%" y="111.64497" x="108.5918" dx="0"/></tspan><tspan id="tspan4187" y="116.84093" x="13.062622"><tspan id="tspan4189" y="116.84093" x="12.164185">At the end of the Mythos Phase, if there are Clues on this card equal </tspan></tspan><tspan id="tspan4191" y="0" x="87.879921"><tspan id="tspan4193" y="124.02843" x="72.381874">to </tspan><tspan id="tspan4195" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="124.02843" x="79.878212">~</tspan><tspan id="tspan4197" y="124.02843" x="87.879921">, solve this Mystery.</tspan></tspan></text>
+</svg>

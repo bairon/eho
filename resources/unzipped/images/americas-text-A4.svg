@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="100" height="155" id="svg2">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6">
+    <mask id="mask2989">
+      <rect width="100" height="155.2" rx="4.1101694" ry="4.1101694" x="0" y="-0.2" id="rect2991" style="fill:#ffffff;fill-opacity:1;stroke:none"/>
+    </mask>
+  <style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="americas-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text82" y="20.281796" x="1.7217469" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan84" y="20.281796" x="2.3076844"><tspan id="tspan86" y="20.281796" x="1.7217469">An anonymous patient in the asylum pleads with you </tspan></tspan><tspan id="tspan88" y="25.203671" x="3.4017396"><tspan id="tspan90" y="25.203671" x="2.8158021">to share what you've learned. You may spend 1 Clue </tspan></tspan><tspan id="tspan92" y="30.125546" x="4.3447328"><tspan id="tspan94" y="30.125546" x="3.7587953">to share what you know. If you spend the Clue, the </tspan></tspan><tspan id="tspan96" y="35.047421" x="2.9393983"><tspan id="tspan98" y="35.047421" x="2.3534608">man begins chanting in a long-dead language; gain 1 </tspan></tspan><tspan id="tspan100" y="39.969296" x="28.203375"><tspan id="tspan102" y="39.969296" x="28.203375">INCANTATION Spell.</tspan></tspan></text>
+  <text id="text48" y="66.331322" x="3.8723257" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan50" y="66.331322" x="4.4582634"><tspan id="tspan52" y="66.331322" x="3.8723257">You speak to a military prisoner on Alcatraz Island. </tspan></tspan><tspan id="tspan54" y="71.253197" x="3.1353261"><tspan id="tspan56" y="71.253197" x="2.5493886">He tells you his story of deserting after encountering </tspan></tspan><tspan id="tspan58" y="86.018822" x="41.180065"><tspan id="tspan60" y="76.175072" x="2.2884634">a horrific creature (</tspan><tspan id="tspan62" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="76.175072" x="36.886242">{</tspan><tspan id="tspan64" y="76.175072" x="40.594128">). If you pass, he thanks you for </tspan></tspan><tspan id="tspan66" y="90.940697" x="3.9135244"><tspan id="tspan68" y="81.096947" x="3.3275869">believing him and blesses your name; gain a Blessed </tspan></tspan><tspan id="tspan70" y="95.862572" x="5.6164055"><tspan id="tspan72" y="86.018822" x="5.030468">Condition. If you fail, the story throws you into a </tspan></tspan><tspan id="tspan74" y="0" x="9.1732292"><tspan id="tspan76" y="90.940697" x="8.5872917">hysterical fit, and the guards arrest you; gain a </tspan></tspan><tspan id="tspan78" y="0" x="30.96278"><tspan id="tspan80" y="95.862572" x="30.96278">Detained Condition.</tspan></tspan></text>
+  <text id="text26" y="121.38049" x="3.2155564" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan28" y="121.38049" x="3.8014939"><tspan id="tspan30" y="121.38049" x="3.2155564">A student has been studying the university's copy of </tspan></tspan><tspan id="tspan32" y="126.30237" x="5.8660078"><tspan id="tspan34" y="126.30237" x="5.2800703">the Necronomicon and is eager to share what he's </tspan></tspan><tspan id="tspan36" y="131.22424" x="3.4627488"><tspan id="tspan38" y="131.22424" x="2.8768113">learned in exchange for hearing what you know. You </tspan></tspan><tspan id="tspan40" y="136.14612" x="3.8243821"><tspan id="tspan42" y="136.14612" x="3.2384446">may spend 1 Clue to share what you know and gain </tspan></tspan><tspan id="tspan44" y="141.06799" x="34.554058"><tspan id="tspan46" y="141.06799" x="34.554058">1 RITUAL Spell.</tspan></tspan></text>
+  <text x="88.988083" y="152.53391" id="text3067" xml:space="preserve" style="font-size:6px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:WfGaramond;;"><tspan style=";font-family:WfGaramond;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;" x="88.988083" y="152.53391" id="tspan3069">4</tspan></text>
+</svg>

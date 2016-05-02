@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="research-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text77" y="23.269703" x="1.0683557" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan79" y="23.269703" x="1.6542932"><tspan id="tspan81" y="23.269703" x="1.0683557">You attend a reading by Edward Pickman Derby from </tspan></tspan><tspan id="tspan83" y="28.191578" x="4.3917198"><tspan id="tspan85" y="28.191578" x="3.8057823">his book Azathoth and Other Horrors and ask him </tspan></tspan><tspan id="tspan87" y="42.957203" x="42.578365"><tspan id="tspan89" y="33.113453" x="1.8099328">about the occult (</tspan><tspan id="tspan91" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="33.113453" x="33.917477">]</tspan><tspan id="tspan93" y="33.113453" x="41.992428">). If you pass, gain this Clue. If </tspan></tspan><tspan id="tspan95" y="47.879078" x="5.7055016"><tspan id="tspan97" y="38.035328" x="5.1195641">you fail, he feigns innocence, but later reports the </tspan></tspan><tspan id="tspan99" y="0" x="2.1303673"><tspan id="tspan101" y="42.957203" x="1.5444299">questions to the Cult of the Skull; advance the Omen </tspan></tspan><tspan id="tspan103" y="0" x="45.343258"><tspan id="tspan105" y="47.879078" x="45.343258">by 1.</tspan></tspan></text>
+  <text id="text47" y="74.930191" x="1.5207639" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.30000019px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan49" y="74.930191" x="2.0582647"><tspan id="tspan51" y="74.930191" x="1.5207639">You examine an odd cave painting by torchlight. If depicts </tspan></tspan><tspan id="tspan53" y="79.44519" x="7.2275028"><tspan id="tspan55" y="79.44519" x="6.6900024">Azathoth sitting on a throne in the center of a starry </tspan></tspan><tspan id="tspan57" y="83.96019" x="5.4134417"><tspan id="tspan59" y="83.96019" x="4.8759398">spiral. You search for any signs of the painting's source </tspan></tspan><tspan id="tspan61" y="97.505188" x="9.986392"><tspan id="tspan63" y="88.475189" x="2.4025998">(</tspan><tspan id="tspan65" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="88.475189" x="3.7799435">|</tspan><tspan id="tspan67" y="88.475189" x="9.4488897">). If you pass, you find pottery shards; gain this Clue. </tspan></tspan><tspan id="tspan69" y="0" x="3.4356101"><tspan id="tspan71" y="92.990189" x="2.8981075">If you fail, your torch eventually goes out, and you begin </tspan></tspan><tspan id="tspan73" y="0" x="6.1105108"><tspan id="tspan75" y="97.505188" x="6.1105103">to hear the sound of a flute; advance the Omen by 1.</tspan></tspan></text>
+  <text id="text25" y="119.8141" x="4.5892653" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan27" y="119.8141" x="5.1752028"><tspan id="tspan29" y="119.8141" x="4.5892653">You watch a meteor shower streak across the night </tspan></tspan><tspan id="tspan31" y="134.57973" x="18.496126"><tspan id="tspan33" y="124.73598" x="3.2342846">sky (</tspan><tspan id="tspan35" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="124.73598" x="11.730378">|</tspan><tspan id="tspan37" y="124.73598" x="17.910189">). If you pass, you see their source is a large, </tspan></tspan><tspan id="tspan39" y="0" x="2.9413159"><tspan id="tspan41" y="129.65785" x="2.3553784">dark moon that's getting closer; gain this Clue and 1 </tspan></tspan><tspan id="tspan43" y="0" x="2.5155957"><tspan id="tspan45" y="134.57973" x="2.5155957">additional Clue. If you fail, advance the Omen by 1.</tspan></tspan></text>
+  <text x="89.3032" y="151.89615" id="text3067" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan x="89.3032" y="151.89615" id="tspan3069" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;writing-mode:lr-tb;text-anchor:start">6</tspan></text>
+</svg>

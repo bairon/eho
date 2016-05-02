@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="asia-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text92" y="20.079035" x="4.0537653" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan94" y="20.079035" x="4.6397028"><tspan id="tspan96" y="20.079035" x="4.0537653">You search through old copies of the The Shanghai </tspan></tspan><tspan id="tspan98" y="34.844662" x="94.71386"><tspan id="tspan100" y="25.00091" x="3.014642">Courier to find strange or unexplained stories (</tspan><tspan id="tspan102" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="25.00091" x="87.948112">|</tspan><tspan id="tspan104" y="25.00091" x="94.127922">). </tspan></tspan><tspan id="tspan106" y="39.766537" x="3.9210141"><tspan id="tspan108" y="29.922785" x="3.3350766">If you pass, you discover a pattern of arcane activity </tspan></tspan><tspan id="tspan110" y="0" x="46.840935"><tspan id="tspan112" y="34.844662" x="2.447015">in the city; improve (</tspan><tspan id="tspan114" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="34.844662" x="40.633659">[</tspan><tspan id="tspan116" y="34.844662" x="46.254997">). If you fail, lose 1 Sanity as </tspan></tspan><tspan id="tspan118" y="0" x="14.229852"><tspan id="tspan120" y="39.766537" x="14.229852">no pattern emerges from all this horror.</tspan></tspan></text>
+  <text id="text62" y="67.978134" x="2.1091301" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan64" y="67.978134" x="2.6950676"><tspan id="tspan66" y="67.978134" x="2.1091301">You ask the enigmatic Dragon Lords to rid the world </tspan></tspan><tspan id="tspan68" y="82.743759" x="63.797363"><tspan id="tspan70" y="72.900009" x="2.1274407">of potential threats to Japan (</tspan><tspan id="tspan72" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="72.900009" x="55.136475">]</tspan><tspan id="tspan74" y="72.900009" x="63.211426">).  If you pass, each </tspan></tspan><tspan id="tspan76" y="87.665634" x="4.0454702"><tspan id="tspan78" y="77.821884" x="3.459533">Monster on a space of your choice loses 2 Health as </tspan></tspan><tspan id="tspan80" y="92.587509" x="2.589782"><tspan id="tspan82" y="82.743759" x="2.0038445">the mysterious group casts their spells. If you fail, the </tspan></tspan><tspan id="tspan84" y="0" x="6.2747793"><tspan id="tspan86" y="87.665634" x="5.6888418">Dragon Lords lash out at you; gain a Back Injury </tspan></tspan><tspan id="tspan88" y="0" x="39.92041"><tspan id="tspan90" y="92.587509" x="39.92041">Condition.</tspan></tspan></text>
+  <text id="text32" y="115.87046" x="5.949614" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan34" y="115.87046" x="6.5355515"><tspan id="tspan36" y="115.87046" x="5.949614">You dream of crossing a vast desert hunted by an </tspan></tspan><tspan id="tspan38" y="120.79234" x="2.2691941"><tspan id="tspan40" y="120.79234" x="1.6832565">enormous winged creature, In the dream, you turn to </tspan></tspan><tspan id="tspan42" y="135.55795" x="35.837006"><tspan id="tspan44" y="125.71421" x="3.1069014">face your fears (</tspan><tspan id="tspan46" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="125.71421" x="31.54318">{</tspan><tspan id="tspan48" y="125.71421" x="35.251068">). If you pass, you wake up feeling </tspan></tspan><tspan id="tspan50" y="0" x="67.010712"><tspan id="tspan52" y="130.63608" x="3.9949629">more alive than ever; improve (</tspan><tspan id="tspan54" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="130.63608" x="60.327362">}</tspan><tspan id="tspan56" y="130.63608" x="66.424774">). If you fail, the </tspan></tspan><tspan id="tspan58" y="0" x="27.162382"><tspan id="tspan60" y="135.55795" x="27.162382">fear lingers; lose 1 Sanity.</tspan></tspan></text>
+  <text style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000024px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;" xml:space="preserve" id="text3067" y="152.90953" x="89.340591"><tspan id="tspan3069" y="152.90953" x="89.340591" style=";font-family:WfGaramond;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.00000024px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">1</tspan></text>
+</svg>

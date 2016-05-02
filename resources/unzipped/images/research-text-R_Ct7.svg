@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="research-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text76" y="23.269703" x="7.5228233" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan78" y="23.269703" x="8.1087608"><tspan id="tspan80" y="23.269703" x="7.5228233">The cult of Cthulhu anticipated your arrival. A </tspan></tspan><tspan id="tspan82" y="28.191578" x="3.3525963"><tspan id="tspan84" y="28.191578" x="2.7666588">Cultist Monster ambushes you! If you defeat it, gain </tspan></tspan><tspan id="tspan86" y="33.113453" x="4.5702477"><tspan id="tspan88" y="33.113453" x="3.9843102">this Clue. If you do not defeat it, you cannot recall </tspan></tspan><tspan id="tspan90" y="38.035328" x="5.018856"><tspan id="tspan92" y="38.035328" x="4.4329185">how you escaped; gain an Amnesia Condition and </tspan></tspan><tspan id="tspan94" y="42.957203" x="13.949825"><tspan id="tspan96" y="42.957203" x="13.949825">move this Clue to the nearest Sea space.</tspan></tspan></text>
+  <text id="text46" y="75.17601" x="4.2552509" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan48" y="75.17601" x="4.8411884"><tspan id="tspan50" y="75.17601" x="4.2552509">You have a vivid dream of R'lyeh and fear that you </tspan></tspan><tspan id="tspan52" y="80.097885" x="4.0721455"><tspan id="tspan54" y="80.097885" x="3.486208">won't be able to wake up if you can't find your way </tspan></tspan><tspan id="tspan56" y="94.86351" x="37.777287"><tspan id="tspan58" y="85.01976" x="2.7858295">out of the city (</tspan><tspan id="tspan60" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="85.01976" x="31.011538">|</tspan><tspan id="tspan62" y="85.01976" x="37.191349">). If you pass, the dream provides </tspan></tspan><tspan id="tspan64" y="99.785385" x="10.283998"><tspan id="tspan66" y="89.941635" x="9.698061">you insight into R'lyeh; gain this Clue and 1 </tspan></tspan><tspan id="tspan68" y="0" x="3.371767"><tspan id="tspan70" y="94.86351" x="2.7858295">additional Clue. If you fail, you remain unconscious </tspan></tspan><tspan id="tspan72" y="0" x="9.446291"><tspan id="tspan74" y="99.785385" x="9.446291">for a day; lose 2 Sanity and become Delayed.</tspan></tspan></text>
+  <text id="text24" y="119.8141" x="2.5155957" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan26" y="119.8141" x="3.1015332"><tspan id="tspan28" y="119.8141" x="2.5155957">As you stare across the water, a webbed hand reaches </tspan></tspan><tspan id="tspan30" y="124.73598" x="4.7677932"><tspan id="tspan32" y="124.73598" x="4.1818557">from below the surface and grabs your leg! A Deep </tspan></tspan><tspan id="tspan34" y="129.65785" x="5.4727492"><tspan id="tspan36" y="129.65785" x="4.8868117">One Monster ambushes you. If you defeat it, gain </tspan></tspan><tspan id="tspan38" y="134.57973" x="2.7582104"><tspan id="tspan40" y="134.57973" x="2.1722729">this Clue and 1 additional Clue. If you do not defeat </tspan></tspan><tspan id="tspan42" y="139.5016" x="21.311373"><tspan id="tspan44" y="139.5016" x="21.311373">it, gain a Leg Injury Condition.</tspan></tspan></text>
+  <text x="89.3032" y="151.89615" id="text3067" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan x="89.3032" y="151.89615" id="tspan3069" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;writing-mode:lr-tb;text-anchor:start">7</tspan></text>
+</svg>
