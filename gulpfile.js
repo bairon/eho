@@ -5,9 +5,12 @@ var gulp = require('gulp');
 var eslint = require('gulp-eslint');
 var concat = require('gulp-concat');
 var nodemon = require('gulp-nodemon');
+var browserify = require('browserify');
+var reactify = require('reactify');
+var source = require("vinyl-source-stream");
 
 var appDir = './client/app/';
-var jsxAssets = appDir + '**/*.jsx'
+var jsxAssets = appDir + '**/*.jsx';
 var htmlAssets = appDir + '**/*.html';
 var cssAssets = appDir + '**/*.css';
 var publicDir = './client/dist';
@@ -18,7 +21,7 @@ gulp.task('lint', function () {
   // So, it's best to have gulp ignore the directory as well.
   // Also, Be sure to return the stream from the task;
   // Otherwise, the task may end before the stream has finished.
-  return gulp.src([jsxAssets,'!node_modules/**'])
+  return gulp.src([jsxAssets, '!node_modules/**'])
     // eslint() attaches the lint output to the 'eslint' property
     // of the file object so it can be used by other modules.
     .pipe(eslint())
@@ -32,7 +35,7 @@ gulp.task('lint', function () {
 
 gulp.task('bundle', function () {
   return browserify({
-    entries: jsxAssets,
+    entries: './client/app/main.jsx',
     debug: true
   }).transform(reactify)
     .bundle()
@@ -62,7 +65,7 @@ gulp.task('demon', function () {
       'NODE_ENV': 'development'
     }
   })
-  .on('start', ['watch'])
+  .on('start', ['build', 'watch'])
   .on('change', ['watch'])
   .on('restart', function () {
     console.log('restarted!');
