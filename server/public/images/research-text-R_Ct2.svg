@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 155" height="155" width="100" version="1.1" id="svg2">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="research-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text85" y="23.269703" x="5.0920982" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan87" y="23.269703" x="5.6780357"><tspan id="tspan89" y="23.269703" x="5.0920982">You recognize allusions to Cthulhu in a sculptor's </tspan></tspan><tspan id="tspan91" y="28.191578" x="8.9602013"><tspan id="tspan93" y="28.191578" x="8.3742638">recent works. You speak to the artist about his </tspan></tspan><tspan id="tspan95" y="42.957203" x="35.331966"><tspan id="tspan97" y="33.113453" x="2.8765221">inspirations (</tspan><tspan id="tspan99" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="33.113453" x="26.671078">]</tspan><tspan id="tspan101" y="33.113453" x="34.746029">). If you pass, gain this Clue and 1 </tspan></tspan><tspan id="tspan103" y="0" x="6.4241905"><tspan id="tspan105" y="38.035328" x="5.838253">additional Clue. If you fail, he tells you a terrible </tspan></tspan><tspan id="tspan107" y="0" x="19.667294"><tspan id="tspan109" y="42.957203" x="19.667294">vision of the future; lose 1 Sanity.</tspan></tspan></text>
+  <text id="text55" y="74.930191" x="8.4032831" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.30000019px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan57" y="74.930191" x="8.9407854"><tspan id="tspan59" y="74.930191" x="8.4032831">This cavern collapsed thousands of years ago. Your </tspan></tspan><tspan id="tspan61" y="79.44519" x="4.1452751"><tspan id="tspan63" y="79.44519" x="3.6077757">excavations reveal carvings that you think correspond to </tspan></tspan><tspan id="tspan65" y="92.990189" x="34.79538"><tspan id="tspan67" y="83.96019" x="4.3174438">modern cults (</tspan><tspan id="tspan69" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="83.96019" x="28.58893">|</tspan><tspan id="tspan71" y="83.96019" x="34.257877">-1). If you pass, you gain insight into </tspan></tspan><tspan id="tspan73" y="97.505188" x="2.4613891"><tspan id="tspan75" y="88.475189" x="1.9238889">the cult of Cthulhu; gain this Clue and 1 additional Clue. </tspan></tspan><tspan id="tspan77" y="0" x="3.3516219"><tspan id="tspan79" y="92.990189" x="2.8141232">If you fail, you contemplate how long the worshippers of </tspan></tspan><tspan id="tspan81" y="0" x="7.3534789"><tspan id="tspan83" y="97.505188" x="7.3534794">Cthulhu have waited for their master; lose 1 Sanity.</tspan></tspan></text>
+  <text id="text25" y="119.8141" x="8.0499582" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan27" y="119.8141" x="8.6358957"><tspan id="tspan29" y="119.8141" x="8.0499582">Looking across the water, you see visions of an </tspan></tspan><tspan id="tspan31" y="124.73598" x="4.8089919"><tspan id="tspan33" y="124.73598" x="4.2230544">ancient island city populated by horrible creatures. </tspan></tspan><tspan id="tspan35" y="139.5016" x="63.878815"><tspan id="tspan37" y="129.65785" x="4.3786941">The city is horrible to behold (</tspan><tspan id="tspan39" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="129.65785" x="59.584991">{</tspan><tspan id="tspan41" y="129.65785" x="63.292877">). If you pass, you </tspan></tspan><tspan id="tspan43" y="144.42348" x="4.6396194"><tspan id="tspan45" y="134.57973" x="4.0536819">learn about R'lyeh; gain this Clue and 1 additional </tspan></tspan><tspan id="tspan47" y="0" x="4.2688303"><tspan id="tspan49" y="139.5016" x="3.682893">Clue. If you fail, your mind cannot stand the sight; </tspan></tspan><tspan id="tspan51" y="0" x="19.947237"><tspan id="tspan53" y="144.42348" x="19.947237">gain a Hallucinations Condition.</tspan></tspan></text>
+  <text style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve" id="text3067" y="151.89615" x="89.3032"><tspan style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;writing-mode:lr-tb;text-anchor:start" id="tspan3069" y="151.89615" x="89.3032">2</tspan></text>
+</svg>

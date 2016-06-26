@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="research-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text78" y="23.269703" x="6.9963951" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan80" y="23.269703" x="7.5823326"><tspan id="tspan82" y="23.269703" x="6.9963951">Randolph Carter claims that the Silver Twilight </tspan></tspan><tspan id="tspan84" y="28.191578" x="3.1969566"><tspan id="tspan86" y="28.191578" x="2.6110191">Lodge stole a unique family treasure. You investigate </tspan></tspan><tspan id="tspan88" y="42.957203" x="44.766476"><tspan id="tspan90" y="33.113453" x="7.7059288">the local Lodge (</tspan><tspan id="tspan92" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="33.113453" x="38.000729">|</tspan><tspan id="tspan94" y="33.113453" x="44.180538">). If you pass, you gain the </tspan></tspan><tspan id="tspan96" y="47.879078" x="3.1466026"><tspan id="tspan98" y="38.035328" x="2.5606651">opportunity to examine the stolen treasure; gain this </tspan></tspan><tspan id="tspan100" y="52.800953" x="4.4832726"><tspan id="tspan102" y="42.957203" x="3.8973351">Clue and you may discard a Spell to gain the Silver </tspan></tspan><tspan id="tspan104" y="0" x="2.2310753"><tspan id="tspan106" y="47.879078" x="1.6451379">Key Artifact. If you fail, the Lodge frames you for the </tspan></tspan><tspan id="tspan108" y="0" x="19.465878"><tspan id="tspan110" y="52.800953" x="19.465878">theft; gain a Detained Condition.</tspan></tspan></text>
+  <text id="text56" y="75.17601" x="6.6676655" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan58" y="75.17601" x="7.253603"><tspan id="tspan60" y="75.17601" x="6.6676655">Talking to one of the locals, you realize that this </tspan></tspan><tspan id="tspan62" y="80.097885" x="5.7338276"><tspan id="tspan64" y="80.097885" x="5.1478901">village and its surrounding farms are inhabited by </tspan></tspan><tspan id="tspan66" y="85.01976" x="7.807497"><tspan id="tspan68" y="85.01976" x="7.2215595">worshippers of Yog-Sothoth. A Cultist Monster </tspan></tspan><tspan id="tspan70" y="89.941635" x="4.4978657"><tspan id="tspan72" y="89.941635" x="3.9119282">ambushes you! If you defeat it, you mange to reach </tspan></tspan><tspan id="tspan74" y="94.86351" x="30.530886"><tspan id="tspan76" y="94.86351" x="30.530886">safety; gain this Clue.</tspan></tspan></text>
+  <text id="text26" y="119.8141" x="2.4331982" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan28" y="119.8141" x="3.0191357"><tspan id="tspan30" y="119.8141" x="2.4331982">A strange fog covers the water, but no one else seems </tspan></tspan><tspan id="tspan32" y="134.57973" x="30.512423"><tspan id="tspan34" y="124.73598" x="7.139009">to see it (</tspan><tspan id="tspan36" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="124.73598" x="23.746675">|</tspan><tspan id="tspan38" y="124.73598" x="29.926485">). If you pass, you find that the fog </tspan></tspan><tspan id="tspan40" y="139.5016" x="5.2209792"><tspan id="tspan42" y="129.65785" x="4.6350417">originates from a circle of stones on the beach of a </tspan></tspan><tspan id="tspan44" y="144.42348" x="7.6105056"><tspan id="tspan46" y="134.57973" x="7.0245681">small island; gain this Clue. If you fail, the mist </tspan></tspan><tspan id="tspan48" y="0" x="2.0166333"><tspan id="tspan50" y="139.5016" x="1.4306958">impairs your vision; discard this Clue unless discard 1 </tspan></tspan><tspan id="tspan52" y="0" x="44.959442"><tspan id="tspan54" y="144.42348" x="44.959442">Spell.</tspan></tspan></text>
+  <text x="89.3032" y="151.89615" id="text3067" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan x="89.3032" y="151.89615" id="tspan3069" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;writing-mode:lr-tb;text-anchor:start">1</tspan></text>
+</svg>

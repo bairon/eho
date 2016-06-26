@@ -1,33 +1,25 @@
 {
-	// See http://go.microsoft.com/fwlink/?LinkId=733558
-	// for the documentation about the tasks.json format
-	"version": "0.1.0",
-	"command": "npm",
-	"isShellCommand": true,
-	"showOutput": "always",
-	"suppressTaskName": true,
-	"tasks": [
-		{
-			"taskName": "install",
-			"args": ["install"]
-		},
-		{
-			"taskName": "update",
-			"args": ["update"]
-		},
-		{
-			"taskName": "test",
-			"args": ["run", "test"]
-		},
-		{
-			"taskName": "watch",
-			"isWatching": true,
-			"args": ["run", "watch"]
-		},
-		{
-			"taskName": "build",
-			"isBuildCommand": true,
-			"args": ["run", "build"]
-		}
-	]
+  // See http://go.microsoft.com/fwlink/?LinkId=733558
+  // for the documentation about the tasks.json format
+  "version": "0.1.0",
+  "command": "gulp",
+  "isShellCommand": true,
+  "showOutput": "always",
+  "suppressTaskName": true,
+  "tasks": [
+    {
+      "taskName": "watch",
+      "isWatching": true
+    },
+    {
+      "taskName": "build",
+      "isBuildCommand": true,
+      "args": ["buildClient"]
+    },
+    {
+      "taskName": "server",
+      "isWatching": true,
+      "args": ["runServer"]
+    }
+  ]
 }

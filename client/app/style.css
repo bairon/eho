@@ -1,0 +1,15 @@
+.chatbox {
+  border: solid black 1px;
+  width: 300px;
+}
+
+.chatbox > .messages {
+  height: 100px;
+  overflow-y: scroll;
+}
+
+.charSelect {
+  height: 400px;
+  width: 600px;
+  background-color: black;
+}

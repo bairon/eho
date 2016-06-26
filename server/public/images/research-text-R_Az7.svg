@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="research-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text80" y="23.269703" x="8.1911583" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan82" y="23.269703" x="8.7770958"><tspan id="tspan84" y="23.269703" x="8.1911583">Something in your brain is manipulating your </tspan></tspan><tspan id="tspan86" y="38.035328" x="68.895203"><tspan id="tspan88" y="28.191578" x="4.0941734">memories, trying to control you (</tspan><tspan id="tspan90" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="28.191578" x="64.601379">{</tspan><tspan id="tspan92" y="28.191578" x="68.309265">). If you pass, a </tspan></tspan><tspan id="tspan94" y="42.957203" x="4.9501915"><tspan id="tspan96" y="33.113453" x="4.364254">partially insubstantial insect flies out of your head, </tspan></tspan><tspan id="tspan98" y="47.879078" x="3.2290001"><tspan id="tspan100" y="38.035328" x="2.6430626">leaving knowledge of an alien planet; gain this Clue. </tspan></tspan><tspan id="tspan102" y="0" x="2.9497643"><tspan id="tspan104" y="42.957203" x="2.3638268">If you fail, you can't tell which of your memories are </tspan></tspan><tspan id="tspan106" y="0" x="19.873287"><tspan id="tspan108" y="47.879078" x="19.873287">real; gain an Amnesia Condition.</tspan></tspan></text>
+  <text id="text54" y="75.17601" x="5.9764423" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan56" y="75.17601" x="6.5623798"><tspan id="tspan58" y="75.17601" x="5.9764423">You ask the villagers about their peculiar folklore </tspan></tspan><tspan id="tspan60" y="89.941635" x="18.37726"><tspan id="tspan62" y="80.097885" x="8.2149067">(</tspan><tspan id="tspan64" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="80.097885" x="9.7163715">]</tspan><tspan id="tspan66" y="80.097885" x="17.791323">). If you pass, you recognize references to </tspan></tspan><tspan id="tspan68" y="94.86351" x="4.4475117"><tspan id="tspan70" y="85.01976" x="3.8615742">cannibalistic rituals in honor of Azathoth; gain this </tspan></tspan><tspan id="tspan72" y="0" x="2.4562397"><tspan id="tspan74" y="89.941635" x="1.8703022">Clue. If you fail, something about the food they offer </tspan></tspan><tspan id="tspan76" y="0" x="21.833376"><tspan id="tspan78" y="94.86351" x="21.833376">you is disturbing; lose 1 Sanity.</tspan></tspan></text>
+  <text id="text28" y="119.8141" x="1.4261181" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan30" y="119.8141" x="2.0120556"><tspan id="tspan32" y="119.8141" x="1.4261181">A volcano throws smoke and burning ash into the air. </tspan></tspan><tspan id="tspan34" y="124.73598" x="9.4781809"><tspan id="tspan36" y="124.73598" x="8.8922434">Despite the toxic fumes, you force yourself to </tspan></tspan><tspan id="tspan38" y="139.5016" x="42.643158"><tspan id="tspan40" y="129.65785" x="2.0395215">continue watching (</tspan><tspan id="tspan42" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="129.65785" x="38.349335">{</tspan><tspan id="tspan44" y="129.65785" x="42.05722">). If you pass, you watch a new </tspan></tspan><tspan id="tspan46" y="0" x="3.3533032"><tspan id="tspan48" y="134.57973" x="2.7673657">island form; gain this Clue and 1 additional Clue. If </tspan></tspan><tspan id="tspan50" y="0" x="10.750764"><tspan id="tspan52" y="139.5016" x="10.750764">you fail, gain an Internal Injury Condition.</tspan></tspan></text>
+  <text x="89.3032" y="151.89615" id="text3067" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan x="89.3032" y="151.89615" id="tspan3069" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;writing-mode:lr-tb;text-anchor:start">7</tspan></text>
+</svg>

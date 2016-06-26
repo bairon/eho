@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 155" height="155" width="100" version="1.1" id="svg2">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="research-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text76" y="23.269703" x="7.8112144" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan78" y="23.269703" x="8.3971519"><tspan id="tspan80" y="23.269703" x="7.8112144">Blood begins to drip from your ears, nose, and </tspan></tspan><tspan id="tspan82" y="28.191578" x="2.8170128"><tspan id="tspan84" y="28.191578" x="2.2310753">mouth. A witch is casting a hex against you, and you </tspan></tspan><tspan id="tspan86" y="42.957203" x="31.161739"><tspan id="tspan88" y="33.113453" x="1.1324426">must resist it (</tspan><tspan id="tspan90" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="33.113453" x="26.867916">{</tspan><tspan id="tspan92" y="33.113453" x="30.575802">)! If you pass, you are able to send the </tspan></tspan><tspan id="tspan94" y="47.879078" x="2.7575035"><tspan id="tspan96" y="38.035328" x="2.171566">hex somewhere else; gain this Clue and 1 Monster of </tspan></tspan><tspan id="tspan98" y="0" x="3.1466026"><tspan id="tspan100" y="42.957203" x="2.5606651">your choice loses 2 Health. If you fail, gain a Cursed </tspan></tspan><tspan id="tspan102" y="0" x="39.790585"><tspan id="tspan104" y="47.879078" x="39.790585">Condition.</tspan></tspan></text>
+  <text id="text46" y="75.05706" x="1.6626606" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan48" y="75.05706" x="2.2251606"><tspan id="tspan50" y="75.05706" x="1.6626606">The Cult of the Black Goat has chosen you as the target </tspan></tspan><tspan id="tspan52" y="79.782066" x="5.3540668"><tspan id="tspan54" y="79.782066" x="4.7915668">of their ritual hunt. You try to cover your tracks and </tspan></tspan><tspan id="tspan56" y="93.957062" x="52.415104"><tspan id="tspan58" y="84.507065" x="5.165102">evade all of their traps (</tspan><tspan id="tspan60" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="84.507065" x="45.919987">|</tspan><tspan id="tspan62" y="84.507065" x="51.852604">). If you pass, you escape </tspan></tspan><tspan id="tspan64" y="98.68206" x="2.8008442"><tspan id="tspan66" y="89.232063" x="2.2383442">with your knowledge of the Cult intact; gain this Clue. </tspan></tspan><tspan id="tspan68" y="0" x="6.1538715"><tspan id="tspan70" y="93.957062" x="5.5913715">If you fail, they capture you and store you in a cage </tspan></tspan><tspan id="tspan72" y="0" x="6.5757465"><tspan id="tspan74" y="98.68206" x="6.5757465">until their next ritual; gain a Detained Condition.</tspan></tspan></text>
+  <text id="text24" y="119.8141" x="2.9916699" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan26" y="119.8141" x="3.5776074"><tspan id="tspan28" y="119.8141" x="2.9916699">One of the sailors tells you that you've been marked </tspan></tspan><tspan id="tspan30" y="124.73598" x="5.1385818"><tspan id="tspan32" y="124.73598" x="4.5526443">and must be purified by fire. He brands your skin, </tspan></tspan><tspan id="tspan34" y="129.65785" x="7.9126296"><tspan id="tspan36" y="129.65785" x="7.3266921">Lose 2 Health. You feel the pain break the dark </tspan></tspan><tspan id="tspan38" y="134.57973" x="4.2230539"><tspan id="tspan40" y="134.57973" x="3.6371167">influences that cling to you; gain this Clue and you </tspan></tspan><tspan id="tspan42" y="139.5016" x="7.7707229"><tspan id="tspan44" y="139.5016" x="7.7707229">may discard a Cursed or Dark Pact Condition.</tspan></tspan></text>
+  <text style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve" id="text3067" y="151.89615" x="89.3032"><tspan style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;writing-mode:lr-tb;text-anchor:start" id="tspan3069" y="151.89615" x="89.3032">6</tspan></text>
+</svg>

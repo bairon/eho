@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="asia-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text90" y="20.079035" x="8.1736383" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan92" y="20.079035" x="8.7595758"><tspan id="tspan94" y="20.079035" x="8.1736383">You break into a warehouse filled with ancient </tspan></tspan><tspan id="tspan96" y="25.00091" x="5.5048761"><tspan id="tspan98" y="25.00091" x="4.9189386">wonders and learn much by studying its contents. </tspan></tspan><tspan id="tspan100" y="39.766537" x="25.838739"><tspan id="tspan102" y="29.922785" x="2.0899594">improve (</tspan><tspan id="tspan104" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="29.922785" x="19.631464">[</tspan><tspan id="tspan106" y="29.922785" x="25.252802">). You must remain silent to avoid being </tspan></tspan><tspan id="tspan108" y="0" x="24.67602"><tspan id="tspan110" y="34.844662" x="3.1245053">caught (</tspan><tspan id="tspan112" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="34.844662" x="17.910273">|</tspan><tspan id="tspan114" y="34.844662" x="24.090082">). If you fail, they question you for days; </tspan></tspan><tspan id="tspan116" y="0" x="34.380608"><tspan id="tspan118" y="39.766537" x="34.380608">become Delayed.</tspan></tspan></text>
+  <text id="text60" y="67.978134" x="4.9976187" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan62" y="67.978134" x="5.5835562"><tspan id="tspan64" y="67.978134" x="4.9976187">The Brotherhood of the Black Lotus has poisoned </tspan></tspan><tspan id="tspan66" y="72.900009" x="3.5831292"><tspan id="tspan68" y="72.900009" x="2.9971917">you! You fall into a coma and confront your greatest </tspan></tspan><tspan id="tspan70" y="87.665634" x="28.046021"><tspan id="tspan72" y="77.821884" x="12.903197">fears (</tspan><tspan id="tspan74" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="77.821884" x="23.752197">{</tspan><tspan id="tspan76" y="77.821884" x="27.460083">). If you pass, you awake and feel </tspan></tspan><tspan id="tspan78" y="92.587509" x="5.3180532"><tspan id="tspan80" y="82.743759" x="4.7321157">transformed; gain a Blessed Condition. If you fail, </tspan></tspan><tspan id="tspan82" y="0" x="5.7300406"><tspan id="tspan84" y="87.665634" x="5.1441031">the nightmares follow you into the waking world; </tspan></tspan><tspan id="tspan86" y="0" x="20.039734"><tspan id="tspan88" y="92.587509" x="20.039734">gain a Hallucinations Condition.</tspan></tspan></text>
+  <text id="text30" y="115.87046" x="2.7178023" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan32" y="115.87046" x="3.3037398"><tspan id="tspan34" y="115.87046" x="2.7178023">Due to a city-wide shortage of supplies, shopkeepers </tspan></tspan><tspan id="tspan36" y="120.79234" x="5.6383348"><tspan id="tspan38" y="120.79234" x="5.0523973">won't even show you their wares unless you prove </tspan></tspan><tspan id="tspan40" y="135.55795" x="61.851715"><tspan id="tspan42" y="125.71421" x="1.6832565">that you can pay top dollar (</tspan><tspan id="tspan44" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="125.71421" x="53.190826">]</tspan><tspan id="tspan46" y="125.71421" x="61.265778">-1). If you pass, gain </tspan></tspan><tspan id="tspan48" y="140.47983" x="4.5992112"><tspan id="tspan50" y="130.63608" x="4.0132737">1 random Weapon Asset from the deck. If you fail, </tspan></tspan><tspan id="tspan52" y="0" x="5.9816575"><tspan id="tspan54" y="135.55795" x="5.39572">you are roped into a devious scheme; gain a Debt </tspan></tspan><tspan id="tspan56" y="0" x="39.865326"><tspan id="tspan58" y="140.47983" x="39.865326">Condition.</tspan></tspan></text>
+  <text style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000024px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;" xml:space="preserve" id="text3067" y="152.90953" x="89.340591"><tspan id="tspan3069" y="152.90953" x="89.340591" style=";font-family:WfGaramond;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.00000024px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">6</tspan></text>
+</svg>

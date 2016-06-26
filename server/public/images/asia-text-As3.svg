@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="asia-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text86" y="20.079035" x="6.4661798" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan88" y="20.079035" x="7.0521173"><tspan id="tspan90" y="20.079035" x="6.4661798">The shrine holds an abundance of ancient relics. </tspan></tspan><tspan id="tspan92" y="34.844662" x="32.146721"><tspan id="tspan94" y="25.00091" x="8.077508">Improve (</tspan><tspan id="tspan96" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="25.00091" x="25.939447">[</tspan><tspan id="tspan98" y="25.00091" x="31.560785">). Your eye catches strange figures </tspan></tspan><tspan id="tspan100" y="39.766537" x="3.5548031"><tspan id="tspan102" y="29.922785" x="2.9688656">written on the ceiling. You find it hard to look away </tspan></tspan><tspan id="tspan104" y="0" x="13.158685"><tspan id="tspan106" y="34.844662" x="4.8914728">(</tspan><tspan id="tspan108" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="34.844662" x="6.3929377">|</tspan><tspan id="tspan110" y="34.844662" x="12.572747">). If you fail, the writing seems to move on its </tspan></tspan><tspan id="tspan112" y="0" x="14.66015"><tspan id="tspan114" y="39.766537" x="14.66015">own; gain 1 Hallucinations Condition.</tspan></tspan></text>
+  <text id="text64" y="67.978134" x="4.4711905" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan66" y="67.978134" x="5.057128"><tspan id="tspan68" y="67.978134" x="4.4711905">You find a gem bearing the symbol of the Emerald </tspan></tspan><tspan id="tspan70" y="72.900009" x="9.3875723"><tspan id="tspan72" y="72.900009" x="8.8016348">Lama. In its facets, you see the image of some </tspan></tspan><tspan id="tspan74" y="77.821884" x="3.2855828"><tspan id="tspan76" y="77.821884" x="2.6996453">horrible beast. Suddenly, the creature is right next to </tspan></tspan><tspan id="tspan78" y="82.743759" x="4.2972403"><tspan id="tspan80" y="82.743759" x="3.711303">you! Choose 1 non-Epic Monster on any space and </tspan></tspan><tspan id="tspan82" y="87.665634" x="13.273986"><tspan id="tspan84" y="87.665634" x="13.273986">move it to your space, then encounter it.</tspan></tspan></text>
+  <text id="text30" y="115.87046" x="1.7519211" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan32" y="115.87046" x="2.3378587"><tspan id="tspan34" y="115.87046" x="1.7519211">Your money and passport have been stolen! You work </tspan></tspan><tspan id="tspan36" y="120.79234" x="9.3233318"><tspan id="tspan38" y="120.79234" x="8.7373943">on the Sydney Harbor Bridge to pay the bills. </tspan></tspan><tspan id="tspan40" y="135.55795" x="34.276031"><tspan id="tspan42" y="125.71421" x="9.7307415">Improve (</tspan><tspan id="tspan44" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="125.71421" x="27.59268">}</tspan><tspan id="tspan46" y="125.71421" x="33.690094">) as you meet the job's rigorous </tspan></tspan><tspan id="tspan48" y="140.47983" x="3.8439009"><tspan id="tspan50" y="130.63608" x="3.2579634">demands. When your passport is found at the scene </tspan></tspan><tspan id="tspan52" y="0" x="95.483612"><tspan id="tspan54" y="135.55795" x="2.3195479">of a crime, you need to prove your innocence (</tspan><tspan id="tspan56" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="135.55795" x="86.822723">]</tspan><tspan id="tspan58" y="135.55795" x="94.897675">). </tspan></tspan><tspan id="tspan60" y="0" x="15.008757"><tspan id="tspan62" y="140.47983" x="15.008757">If you fail, gain a Detained Condition.</tspan></tspan></text>
+  <text style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000024px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;" xml:space="preserve" id="text3067" y="152.90953" x="89.340591"><tspan id="tspan3069" y="152.90953" x="89.340591" style=";font-family:WfGaramond;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.00000024px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">3</tspan></text>
+</svg>

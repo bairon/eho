@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 155" height="155" width="100" version="1.1" id="svg2">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="expedition-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text97" y="70.656677" x="15.451609" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan99" y="70.656677" x="16.037546"><tspan id="tspan101" y="70.656677" x="15.451609">You follow the tunnel to the ancient city of </tspan></tspan><tspan id="tspan103" y="75.578552" x="13.254343"><tspan id="tspan105" y="75.578552" x="12.668406">G'harne. Retreat Doom by 1. If you have read </tspan></tspan><tspan id="tspan107" y="80.500427" x="17.062937"><tspan id="tspan109" y="80.500427" x="16.476999">about G'harne, you know to leave quickly </tspan></tspan><tspan id="tspan111" y="0" x="23.174082"><tspan id="tspan113" y="85.422302" x="15.465342">(</tspan><tspan id="tspan115" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="85.422302" x="16.966806">[</tspan><tspan id="tspan117" y="85.422302" x="22.588144">). If you fail, you wake up in the jungle </tspan></tspan><tspan id="tspan119" y="0" x="12.384592"><tspan id="tspan121" y="90.344177" x="12.384592">with no memory; gain an Amnesia Condition.</tspan></tspan></text>
+  <text style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve" id="text3067" y="152.05226" x="90.255959"><tspan style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;writing-mode:lr-tb;text-anchor:start" id="tspan3069" y="152.05226" x="90.255959">1</tspan></text>
+  <text id="text87" y="10.066425" x="6.3468137" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:94.99999881%;font-family:WfUglyQua;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan89" y="10.066425" x="7.5333371"><tspan id="tspan91" y="10.066425" x="6.3468137">The Heart of </tspan></tspan><tspan id="tspan93" y="17.191425" x="17.948376"><tspan id="tspan95" y="17.191425" x="17.948376">Africa</tspan></tspan></text>
+  <path id="path4203" d="m 3.2508935,25.660881 0,36.688655 94.9725305,0 0,-15.557847 -44.583682,-7.66282 0,-13.467987 z" style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  <text id="text61" y="28.633789" x="5.9736938" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan63" y="28.633789" x="6.5596313"><tspan id="tspan65" y="28.633789" x="5.9736938">The whole jungle shakes, </tspan></tspan><tspan id="tspan67" y="33.555664" x="9.8692627"><tspan id="tspan69" x="9.2833252">and the ground splits </tspan></tspan><tspan id="tspan71" y="38.477539" x="5.3740234"><tspan id="tspan73" x="4.7880859">beneath your feet. You fall </tspan></tspan><tspan id="tspan75" y="43.399414" x="6.760498"><tspan id="tspan77" x="6.1745605">through the crevice into a vast </tspan></tspan><tspan id="tspan79" y="48.321289" x="23.917614"><tspan id="tspan81" x="23.917614">subterranean tunnel (</tspan><tspan id="tspan83" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons">}</tspan><tspan id="tspan85">).</tspan></tspan></text>
+  <path id="path4237" d="m 13.700194,112.50618 -7.1984071,6.73399 6.0373741,8.59165 -0.232207,8.35944 -7.8950272,5.10855 9.5204742,9.98488 65.946696,0.23221 3.018686,-7.66282 10.913714,0.23221 4.411927,-14.16461 -11.14592,-17.1833 z" style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  <text id="text31" y="116.17611" x="13.592303" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan33" y="116.17611" x="14.178241"><tspan id="tspan35" y="116.17611" x="13.592303">You land painfully on your spine. Lose 1 </tspan></tspan><tspan id="tspan37" y="121.09798" x="11.794857"><tspan id="tspan39" y="121.09798" x="11.20892">Health and gain a Back Injury Condition. </tspan></tspan><tspan id="tspan41" y="126.01986" x="15.057279"><tspan id="tspan43" y="126.01986" x="14.471341">While you're stuck here, you examine this </tspan></tspan><tspan id="tspan45" y="140.78549" x="34.429493"><tspan id="tspan47" y="130.94174" x="13.216725">tunnel (</tspan><tspan id="tspan49" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="130.94174" x="27.663746">|</tspan><tspan id="tspan51" y="130.94174" x="33.843555">-1). If you pass, you see that it was </tspan></tspan><tspan id="tspan53" y="0" x="14.761781"><tspan id="tspan55" y="135.86362" x="14.175843">dug out by a large creature; retreat Doom by </tspan></tspan><tspan id="tspan57" y="0" x="50.780956"><tspan id="tspan59" y="140.78549" x="50.780956">1.</tspan></tspan></text>
+</svg>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="general-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text74" y="21.757357" x="5.1958961" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan76" y="21.757357" x="5.7818336"><tspan id="tspan78" y="21.757357" x="5.1958961">You make sure no one is watching before sneaking </tspan></tspan><tspan id="tspan80" y="36.52298" x="83.606232"><tspan id="tspan82" y="26.679232" x="3.5250587">out of the Shop with your stolen goods (</tspan><tspan id="tspan84" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="26.679232" x="76.840485">|</tspan><tspan id="tspan86" y="26.679232" x="83.020294">). If you </tspan></tspan><tspan id="tspan88" y="41.444855" x="3.7493629"><tspan id="tspan90" y="31.601107" x="3.1634254">pass, gain 1 ITEM Asset from the reserve or random </tspan></tspan><tspan id="tspan92" y="46.36673" x="2.5500221"><tspan id="tspan94" y="36.52298" x="1.9640845">ITEM Asset from the deck. If you fail, you are caught </tspan></tspan><tspan id="tspan96" y="0" x="7.1047707"><tspan id="tspan98" y="41.444855" x="6.5188332">by the Store owner and arrested; gain a Detained </tspan></tspan><tspan id="tspan100" y="0" x="40.507786"><tspan id="tspan102" y="46.36673" x="40.507786">Condition.</tspan></tspan></text>
+  <text id="text52" y="64.817497" x="4.7664585" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan54" y="64.817497" x="5.352396"><tspan id="tspan56" y="64.817497" x="4.7664585">The remains of a long-dead explorer lie before you. </tspan></tspan><tspan id="tspan58" y="69.739372" x="3.3245029"><tspan id="tspan60" y="69.739372" x="2.7385654">Some of his gear still seems salvageable, and he won't </tspan></tspan><tspan id="tspan62" y="74.661247" x="2.9033604"><tspan id="tspan64" y="74.661247" x="2.3174229">miss it. You dig through the dead man's pockets; gain </tspan></tspan><tspan id="tspan66" y="79.583122" x="7.796854"><tspan id="tspan68" y="79.583122" x="7.2109165">1 random ITEM Asset from the deck and lose 1 </tspan></tspan><tspan id="tspan70" y="84.504997" x="44.651405"><tspan id="tspan72" y="84.504997" x="44.651405">Sanity.</tspan></tspan></text>
+  <text id="text26" y="113.54878" x="5.4392176" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan28" y="113.54878" x="6.0251551"><tspan id="tspan30" y="113.54878" x="5.4392176">You find the floating detritus of some sunken ship </tspan></tspan><tspan id="tspan32" y="118.47066" x="6.341012"><tspan id="tspan34" y="118.47066" x="5.7550745">and search for any survivors or salvageable objects </tspan></tspan><tspan id="tspan36" y="133.23628" x="11.403878"><tspan id="tspan38" y="123.39253" x="3.1366663">(</tspan><tspan id="tspan40" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="123.39253" x="4.6381311">|</tspan><tspan id="tspan42" y="123.39253" x="10.817941">). If you pass, you discover a floating trunk; gain </tspan></tspan><tspan id="tspan44" y="0" x="3.1320887"><tspan id="tspan46" y="128.31441" x="2.5461512">1 Artifact. If you fail, you waste hours without result; </tspan></tspan><tspan id="tspan48" y="0" x="35.097725"><tspan id="tspan50" y="133.23628" x="35.097725">become Delayed.</tspan></tspan></text>
+  <text style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000024px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;" xml:space="preserve" id="text3067" y="152.32748" x="90.020378"><tspan id="tspan3069" y="152.32748" x="90.020378" style=";font-family:WfGaramond;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.00000024px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">1</tspan></text>
+</svg>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 155" height="155" width="100" version="1.1" id="svg2">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="general-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text78" y="21.511536" x="6.378365" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.30000019px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan80" y="21.511536" x="6.915864"><tspan id="tspan82" y="21.511536" x="6.378365">The police report that people are being abducted by a </tspan></tspan><tspan id="tspan84" y="26.026537" x="2.792232"><tspan id="tspan86" y="26.026537" x="2.2547319">monster dwelling in the sewer system. Wandering through </tspan></tspan><tspan id="tspan88" y="30.541534" x="4.4887171"><tspan id="tspan90" y="30.541534" x="3.9512162">the underground tunnels you are suddenly attacked by a </tspan></tspan><tspan id="tspan92" y="44.086533" x="28.529243"><tspan id="tspan94" y="35.056534" x="5.0304155">deep one (</tspan><tspan id="tspan96" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="35.056534" x="22.398384">}</tspan><tspan id="tspan98" y="35.056534" x="27.991743">)! If you pass, you defeat the creature and </tspan></tspan><tspan id="tspan100" y="0" x="5.7568798"><tspan id="tspan102" y="39.571533" x="5.2193804">rescue its hostage; gain 1 random ALLY Asset from the </tspan></tspan><tspan id="tspan104" y="0" x="10.237448"><tspan id="tspan106" y="44.086533" x="10.237447">deck. If you fail, lose 1 Health from the struggle.</tspan></tspan></text>
+  <text id="text52" y="64.817497" x="6.2496128" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan54" y="64.817497" x="6.8355503"><tspan id="tspan56" y="64.817497" x="6.2496128">In the middle of the night, a feral beast rips apart </tspan></tspan><tspan id="tspan58" y="79.583122" x="60.224525"><tspan id="tspan60" y="69.739372" x="2.3174229">your camp and attacks you (</tspan><tspan id="tspan62" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="69.739372" x="53.541176">}</tspan><tspan id="tspan64" y="69.739372" x="59.638588">)! If you pass, you feel </tspan></tspan><tspan id="tspan66" y="0" x="44.152443"><tspan id="tspan68" y="74.661247" x="2.1663609">invincible; improve (</tspan><tspan id="tspan70" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="74.661247" x="39.85862">{</tspan><tspan id="tspan72" y="74.661247" x="43.566505">). If you fail, lose 1 Health and </tspan></tspan><tspan id="tspan74" y="0" x="24.57847"><tspan id="tspan76" y="79.583122" x="24.57847">gain a Leg Injury Condition.</tspan></tspan></text>
+  <text id="text26" y="113.54878" x="2.9856043" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan28" y="113.54878" x="3.5715418"><tspan id="tspan30" y="113.54878" x="2.9856043">The captain of the ship invites you to dine with him. </tspan></tspan><tspan id="tspan32" y="118.47066" x="5.5994349"><tspan id="tspan34" y="118.47066" x="5.0134974">You have the feeling that he's had some experience </tspan></tspan><tspan id="tspan36" y="123.39253" x="4.5465784"><tspan id="tspan38" y="123.39253" x="3.9606409">with unearthly creatures and try to convince him to </tspan></tspan><tspan id="tspan40" y="0" x="43.538887"><tspan id="tspan42" y="128.31441" x="4.1712122">share his stories (</tspan><tspan id="tspan44" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="128.31441" x="34.877998">]</tspan><tspan id="tspan46" y="128.31441" x="42.95295">). If you pass, his tale includes </tspan></tspan><tspan id="tspan48" y="0" x="13.903268"><tspan id="tspan50" y="133.23628" x="13.903268">highly-significant details; spawn 1, Clue.</tspan></tspan></text>
+  <text x="90.020378" y="152.32748" id="text3067" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000024px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;"><tspan style=";font-family:WfGaramond;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.00000024px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;" x="90.020378" y="152.32748" id="tspan3069">9</tspan></text>
+</svg>

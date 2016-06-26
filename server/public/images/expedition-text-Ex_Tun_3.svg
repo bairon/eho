@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="expedition-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text104" y="70.656677" x="12.013803" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan106" y="70.656677" x="12.59974"><tspan id="tspan108" y="70.656677" x="12.013803">You find the remains of the monk's camp; gain </tspan></tspan><tspan id="tspan110" y="85.422302" x="87.251839"><tspan id="tspan112" y="75.578552" x="11.528574">1 Artifact. You then search the crater (</tspan><tspan id="tspan114" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="75.578552" x="80.486092">|</tspan><tspan id="tspan116" y="75.578552" x="86.665901">-1). If </tspan></tspan><tspan id="tspan118" y="90.344177" x="14.22938"><tspan id="tspan120" y="80.500427" x="13.643442">you pass, you find traces of the comet; gain 1 </tspan></tspan><tspan id="tspan122" y="0" x="16.678415"><tspan id="tspan124" y="85.422302" x="16.092478">Clue. If you fail, the shattered landscape is </tspan></tspan><tspan id="tspan126" y="0" x="25.101267"><tspan id="tspan128" y="90.344177" x="25.101267">difficult to look at; lose 1 Sanity.</tspan></tspan></text>
+  <text x="90.255959" y="152.05226" id="text3067" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan x="90.255959" y="152.05226" id="tspan3069" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;writing-mode:lr-tb;text-anchor:start">3</tspan></text>
+  <text id="text98" y="12.723205" x="12.960583" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:94.99999881%;font-family:WfUglyQua;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan100" y="12.723205" x="12.960583"><tspan id="tspan102" y="12.723205" x="12.960583">Tunguska</tspan></tspan></text>
+  <path style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 3.2508935,25.660881 0,36.688655 94.9725305,0 0,-15.557847 -44.583682,-7.66282 0,-13.467987 z" id="path4203"/>
+  <text id="text68" y="28.633789" x="4.2616577" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan70" y="28.633789" x="4.8475952"><tspan id="tspan72" y="28.633789" x="4.2616577">As you approach the crater </tspan></tspan><tspan id="tspan74" y="33.555664" x="8.6149902"><tspan id="tspan76" x="8.0290527">described in Rasputins </tspan></tspan><tspan id="tspan78" y="38.477539" x="4.1563721"><tspan id="tspan80" x="3.5704346">notes, toxic fumes pour out </tspan></tspan><tspan id="tspan82" y="43.399414" x="8.7929688"><tspan id="tspan84" x="8.2070312">of a fissure in the earth. You </tspan></tspan><tspan id="tspan86" y="48.321289" x="8.2346306"><tspan id="tspan88" x="7.6486931">struggle to stay conscious and continue your </tspan></tspan><tspan id="tspan90" y="53.243164" x="38.3172"><tspan id="tspan92" x="38.3172">descent (</tspan><tspan id="tspan94" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons">}</tspan><tspan id="tspan96">).</tspan></tspan></text>
+  <path style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 13.700194,112.50618 -7.1984071,6.73399 6.0373741,8.59165 -0.232207,8.35944 -7.8950272,5.10855 9.5204742,9.98488 65.946696,0.23221 3.018686,-7.66282 10.913714,0.23221 4.411927,-14.16461 -11.14592,-17.1833 z" id="path4237"/>
+  <text id="text34" y="116.17611" x="17.840349" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan36" y="116.17611" x="18.426287"><tspan id="tspan38" y="116.17611" x="17.840349">The fumes burn your lungs and you </tspan></tspan><tspan id="tspan40" y="121.09798" x="13.058285"><tspan id="tspan42" y="121.09798" x="12.472347">cough up blood. Gain an Internal Injury </tspan></tspan><tspan id="tspan44" y="126.01986" x="13.688565"><tspan id="tspan46" y="126.01986" x="13.102628">Condition. You try to convince your guides </tspan></tspan><tspan id="tspan48" y="140.78549" x="40.325489"><tspan id="tspan50" y="130.94174" x="16.292896">to help (</tspan><tspan id="tspan52" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="130.94174" x="31.6646">]</tspan><tspan id="tspan54" y="130.94174" x="39.739552">). If you pass, they rescue you </tspan></tspan><tspan id="tspan56" y="145.70737" x="17.178772"><tspan id="tspan58" y="135.86362" x="16.592834">and recover Rasputin's possessions; gain 1 </tspan></tspan><tspan id="tspan60" y="0" x="11.262218"><tspan id="tspan62" y="140.78549" x="10.676281">Artifact. If you fail, lose 2 Health crawling out </tspan></tspan><tspan id="tspan64" y="0" x="33.247658"><tspan id="tspan66" y="145.70737" x="33.247658">on your own.</tspan></tspan></text>
+</svg>

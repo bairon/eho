@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="research-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text80" y="23.269703" x="4.6251793" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan82" y="23.269703" x="5.2111168"><tspan id="tspan84" y="23.269703" x="4.6251793">You attempt to sneak into the local Silver Twilight </tspan></tspan><tspan id="tspan86" y="38.035328" x="22.592403"><tspan id="tspan88" y="28.191578" x="1.9472619">Lodge (</tspan><tspan id="tspan90" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="28.191578" x="15.826656">|</tspan><tspan id="tspan92" y="28.191578" x="22.006466">). If you pass, you find a chart that assigns </tspan></tspan><tspan id="tspan94" y="42.957203" x="3.1237144"><tspan id="tspan96" y="33.113453" x="2.5377769">the names of wizards to seasons of the year; gain this </tspan></tspan><tspan id="tspan98" y="47.879078" x="3.6730309"><tspan id="tspan100" y="38.035328" x="3.0870934">Clue and 1 additional Clue. Sanford corresponds to </tspan></tspan><tspan id="tspan102" y="52.800953" x="3.9019127"><tspan id="tspan104" y="42.957203" x="3.3159752">Spring, Waite to Summer, Curwen to Autumn, and </tspan></tspan><tspan id="tspan106" y="0" x="3.8744469"><tspan id="tspan108" y="47.879078" x="3.2885094">Eibon to Winter. You remember the information in </tspan></tspan><tspan id="tspan110" y="0" x="23.132565"><tspan id="tspan112" y="52.800953" x="23.132565">case it someday proves useful.</tspan></tspan></text>
+  <text id="text54" y="75.17601" x="5.6468525" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan56" y="75.17601" x="6.23279"><tspan id="tspan58" y="75.17601" x="5.6468525">Local lore speaks of a place of tremendous arcane </tspan></tspan><tspan id="tspan60" y="89.941635" x="28.622011"><tspan id="tspan62" y="80.097885" x="3.069643">potential (</tspan><tspan id="tspan64" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="80.097885" x="21.856264">|</tspan><tspan id="tspan66" y="80.097885" x="28.036074">-1). If you pass, you find a junction of </tspan></tspan><tspan id="tspan68" y="94.86351" x="2.5935688"><tspan id="tspan70" y="85.01976" x="2.0076313">ley lines; gain this Clue and 1 additional Clue. If you </tspan></tspan><tspan id="tspan72" y="0" x="6.3243427"><tspan id="tspan74" y="89.941635" x="5.7384052">fail, your power is channelled for a dark purpose; </tspan></tspan><tspan id="tspan76" y="3.069643" x="19.398073"><tspan id="tspan78" y="94.86351" x="19.398073">spawn 1 Gate and discard 1 Spell.</tspan></tspan></text>
+  <text id="text28" y="119.8141" x="1.3757641" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan30" y="119.8141" x="1.9617016"><tspan id="tspan32" y="119.8141" x="1.3757641">Sheets of luminescent colors fill the horizon. You hear </tspan></tspan><tspan id="tspan34" y="134.57973" x="79.740326"><tspan id="tspan36" y="124.73598" x="6.0312209">a hum in the air, almost like a voice (</tspan><tspan id="tspan38" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="124.73598" x="72.974579">|</tspan><tspan id="tspan40" y="124.73598" x="79.154388">). If you </tspan></tspan><tspan id="tspan42" y="139.5016" x="3.4036572"><tspan id="tspan44" y="129.65785" x="2.8177197">pass, it tells you of arcane secrets; gain this Clue and </tspan></tspan><tspan id="tspan46" y="0" x="6.067842"><tspan id="tspan48" y="134.57973" x="5.4819045">1 Spell. If you fail, the sounds gives you a terrible </tspan></tspan><tspan id="tspan50" y="0" x="27.871126"><tspan id="tspan52" y="139.5016" x="27.871126">headache; lose 1 Health.</tspan></tspan></text>
+  <text x="89.3032" y="151.89615" id="text3067" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan x="89.3032" y="151.89615" id="tspan3069" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;writing-mode:lr-tb;text-anchor:start">4</tspan></text>
+</svg>

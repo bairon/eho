@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="213" height="143" viewBox="0 0 213 143">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="mystery-image-7.png" preserveAspectRatio="none" height="69" width="61" y="0" x="152" id="card-image"/>
+  <image xlink:href="mystery-bg.png" id="background-image" x="0" y="0" width="213" height="143" preserveAspectRatio="none"/>
+  <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:WfUglyQua;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="6.7852468" y="15.326321" id="text4138"><tspan id="tspan4160" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:WfUglyQua;;text-align:start;writing-mode:lr-tb;text-anchor:start">Where the Old Ones Broke Through</tspan></text>
+  <path id="path4146" d="m 12.771341,27.17715 129.915369,0 3.96351,7.706843 0,13.652123 -6.82606,9.248213 -0.055,16.734861 C 98.11504,74.573304 56.46158,74.27424 14.808148,74.078798 l 0.605539,-16.294469 -7.0462567,-9.248213 0,-12.771341 z" style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  <text id="text4183" y="37.954189" x="17.707903" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.875px;line-height:100%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan4185" y="37.954189" x="18.567278"><tspan id="tspan4187" y="37.954189" x="17.707903">Yog-Sothoth struggles to free itself from the space </tspan></tspan><tspan id="tspan4189" y="44.829185" x="10.803945"><tspan id="tspan4191" y="44.829185" x="9.9445696">between dimensions, tearing holes in our reality in the </tspan></tspan><tspan id="tspan4193" y="51.704185" x="68.411499"><tspan id="tspan4195" y="51.704185" x="68.411499">process.</tspan></tspan></text>
+  <path id="path4160" d="m 27.964833,70.775865 157.219607,0 9.9088,5.064497 5.94528,8.587626 1.98176,4.403911 0,24.882091 -2.42215,8.14724 -5.0645,6.60586 -5.50489,5.2847 0,31.92835 -166.467818,0 0,-34.3505 -8.36743,-9.9088 -4.624106,-8.58763 0,-23.340724 6.38567,-10.569386 z" style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  <text id="text4149" y="88.806435" x="33.139881" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.1875px;line-height:100%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan4151" y="88.806435" x="34.038319"><tspan id="tspan4153" y="88.806435" x="33.139881">When an investigator closes a Gate, he may discard 2 </tspan></tspan><tspan id="tspan4155" y="95.993935" x="56.737232"><tspan id="tspan4157" y="95.993935" x="56.737232">Spells to place the Gate on this card.</tspan><tspan id="tspan4159" y="95.993935" x="157.6851" dx="0"/></tspan><tspan id="tspan4161" y="100.14172" x="108.16325"><tspan id="tspan4163" style="line-height:30.00000119%" y="100.14172" x="107.26481"> </tspan><tspan id="tspan4165" style="line-height:30.00000119%" y="100.14172" x="109.06168" dx="0"/></tspan><tspan id="tspan4167" y="105.33768" x="13.712612"><tspan id="tspan4169" y="105.33768" x="12.814175">At the end of the Mythos phase, if the number of Gates on this card </tspan></tspan><tspan id="tspan4171" y="0" x="68.281433"><tspan id="tspan4173" y="112.52518" x="17.098572">is equal to half </tspan><tspan id="tspan4175" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="112.52518" x="59.381287">~</tspan><tspan id="tspan4177" y="112.52518" x="67.382996">, place the Gates on this card back in the game </tspan></tspan><tspan id="tspan4179" y="0" x="68.421814"><tspan id="tspan4181" y="119.71269" x="68.421814">box, and solve this Mystery.</tspan></tspan></text>
+</svg>

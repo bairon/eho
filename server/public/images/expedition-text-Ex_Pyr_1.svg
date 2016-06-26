@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="expedition-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text100" y="70.656677" x="12.993418" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan102" y="70.656677" x="13.579355"><tspan id="tspan104" y="70.656677" x="12.993418">You see now that you are in the Temple of the </tspan></tspan><tspan id="tspan106" y="75.578552" x="17.1728"><tspan id="tspan108" y="75.578552" x="16.586863">Sphinx. Retreat Doom by 1. You use your </tspan></tspan><tspan id="tspan110" y="90.344177" x="94.031319"><tspan id="tspan112" y="80.500427" x="12.677561">knowledge of Egyptology to find an exit (</tspan><tspan id="tspan114" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="80.500427" x="87.824043">[</tspan><tspan id="tspan116" y="80.500427" x="93.445381">). </tspan></tspan><tspan id="tspan118" y="0" x="15.346324"><tspan id="tspan120" y="85.422302" x="14.760386">If you fail, you wake up with no memory of </tspan></tspan><tspan id="tspan122" y="0" x="12.334238"><tspan id="tspan124" y="90.344177" x="12.334238">how you escaped; gain an Amnesia Condition.</tspan></tspan></text>
+  <text x="90.255959" y="152.05226" id="text3067" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan x="90.255959" y="152.05226" id="tspan3069" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;writing-mode:lr-tb;text-anchor:start">1</tspan></text>
+  <text id="text94" y="12.723205" x="5.519177" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:94.99999881%;font-family:WfUglyQua;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan96" y="12.723205" x="5.519177"><tspan id="tspan98" y="12.723205" x="5.519177">The Pyramids</tspan></tspan></text>
+  <path style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 3.2508935,25.660881 0,36.688655 94.9725305,0 0,-15.557847 -44.583682,-7.66282 0,-13.467987 z" id="path4203"/>
+  <text id="text64" y="28.633789" x="4.1655273" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan66" y="28.633789" x="4.7514648"><tspan id="tspan68" y="28.633789" x="4.1655273">Bandits tie your hands and </tspan></tspan><tspan id="tspan70" y="33.555664" x="5.5891724"><tspan id="tspan72" x="5.0032349">blindfold you. They lower </tspan></tspan><tspan id="tspan74" y="38.477539" x="6.5825195"><tspan id="tspan76" x="5.996582">you into catacombs deep </tspan></tspan><tspan id="tspan78" y="43.399414" x="7.3693237"><tspan id="tspan80" x="6.7833862">under the pyramids and leave </tspan></tspan><tspan id="tspan82" y="48.321289" x="7.3419914"><tspan id="tspan84" x="6.7560539">you there to die. You try to free yourself from </tspan></tspan><tspan id="tspan86" y="53.243164" x="34.806152"><tspan id="tspan88" x="34.806152">your bonds (</tspan><tspan id="tspan90" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons">}</tspan><tspan id="tspan92">).</tspan></tspan></text>
+  <path style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 13.700194,112.50618 -7.1984071,6.73399 6.0373741,8.59165 -0.232207,8.35944 -7.8950272,5.10855 9.5204742,9.98488 65.946696,0.23221 3.018686,-7.66282 10.913714,0.23221 4.411927,-14.16461 -11.14592,-17.1833 z" id="path4237"/>
+  <text id="text34" y="116.17611" x="15.075458" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan36" y="116.17611" x="15.661395"><tspan id="tspan38" y="116.17611" x="15.075458">While struggling with your bonds, you </tspan></tspan><tspan id="tspan40" y="121.09798" x="13.41534"><tspan id="tspan42" y="121.09798" x="12.829403">feel undead hands tearing at you. Lose 1 </tspan></tspan><tspan id="tspan44" y="126.01986" x="21.662809"><tspan id="tspan46" y="126.01986" x="21.076872">Health and gain an Internal Injury </tspan></tspan><tspan id="tspan48" y="130.94174" x="20.746937"><tspan id="tspan50" y="130.94174" x="20.160999">Condition. You gaze into the darkness </tspan></tspan><tspan id="tspan52" y="0" x="23.637819"><tspan id="tspan54" y="135.86362" x="15.370606">(</tspan><tspan id="tspan56" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="135.86362" x="16.87207">|</tspan><tspan id="tspan58" y="135.86362" x="23.051882">-1). If you pass, you identify mummies </tspan></tspan><tspan id="tspan60" y="1.0174792e+09" x="10.95094"><tspan id="tspan62" y="140.78549" x="10.95094">with the heads of animals; retreat Doom by 1.</tspan></tspan></text>
+</svg>

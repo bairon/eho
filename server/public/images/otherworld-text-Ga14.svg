@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="otherworld-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text88" y="70.71479" x="6.4614496" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan90" y="70.71479" x="7.0473871"><tspan id="tspan92" y="70.71479" x="6.4614496">Something large and powerful is trying to break </tspan></tspan><tspan id="tspan94" y="75.636665" x="5.4589472"><tspan id="tspan96" y="75.636665" x="4.8730097">through a sealed trap door. The racket is startling, </tspan></tspan><tspan id="tspan98" y="90.40229" x="69.747276"><tspan id="tspan100" y="80.55854" x="5.889245">and you consider running away (</tspan><tspan id="tspan102" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="80.55854" x="65.453453">{</tspan><tspan id="tspan104" y="80.55854" x="69.161339">). If you pass, </tspan></tspan><tspan id="tspan106" y="95.324165" x="5.2941523"><tspan id="tspan108" y="85.480415" x="4.7082148">you resolve to fend off the terrible beast and, with </tspan></tspan><tspan id="tspan110" y="100.24604" x="4.2870722"><tspan id="tspan112" y="90.40229" x="3.7011347">the help of the Yithians, you close this Gate. If you </tspan></tspan><tspan id="tspan114" y="0" x="3.8933954"><tspan id="tspan116" y="95.324165" x="3.3074579">fail, you flee in terror from approaching threat; lose </tspan></tspan><tspan id="tspan118" y="0" x="41.874046"><tspan id="tspan120" y="100.24604" x="41.874046">1 Sanity.</tspan></tspan></text>
+  <text style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve" id="text3067" y="152.17839" x="89.930534"><tspan style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;writing-mode:lr-tb;text-anchor:start" id="tspan3069" y="152.17839" x="89.930534">14</tspan></text>
+  <text id="text78" y="8.7031221" x="3.5196512" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:94.99999881%;font-family:WfUglyQua;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan80" y="8.7031221" x="4.7061749"><tspan id="tspan82" y="8.7031221" x="3.5196512">City of the Great </tspan></tspan><tspan id="tspan84" y="15.828122" x="23.822386"><tspan id="tspan86" y="15.828122" x="23.822386">Race</tspan></tspan></text>
+  <path id="path4426" d="m 2.2987288,27.121822 0,35.137712 95.3972462,0 0,-24.629237 -24.136653,0 -11.165254,-10.508475 z" style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  <text id="text56" y="30.095123" x="4.0916252" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan58" y="30.095123" x="4.6775627"><tspan id="tspan60" y="30.095123" x="4.0916252">You hear the sound of a terrible </tspan></tspan><tspan id="tspan62" y="35.016998" x="4.4627304"><tspan id="tspan64" y="35.016998" x="3.8767929">gust of wind and listen carefully to </tspan></tspan><tspan id="tspan66" y="39.938873" x="3.2362366"><tspan id="tspan68" y="39.938873" x="2.6502991">determine the origin of the sound. You </tspan></tspan><tspan id="tspan70" y="44.860748" x="5.4337769"><tspan id="tspan72" y="44.860748" x="4.8478394">may spend 1 Clue to resolve the pass effect. If you </tspan></tspan><tspan id="tspan74" y="49.782623" x="9.6497803"><tspan id="tspan76" y="49.782623" x="9.6497803">do not spend the Clue, resolve the fail effect.</tspan></tspan></text>
+  <path id="path4460" d="m 9.5233051,114.77225 -3.1197034,7.22457 0,21.18115 5.9110173,6.56779 67.976695,0 1.970339,-5.91101 13.135593,0 0,-24.62924 -6.075212,-4.26906 z" style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  <text id="text30" y="117.74512" x="14.357696" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan32" y="117.74512" x="14.943633"><tspan id="tspan34" y="117.74512" x="14.357696">Bursting up through an opening in the </tspan></tspan><tspan id="tspan36" y="122.66699" x="10.952495"><tspan id="tspan38" x="10.366557">floor, a flying polyp attacks (</tspan><tspan id="tspan40" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons">}</tspan><tspan id="tspan42">). If you pass, </tspan></tspan><tspan id="tspan44" y="127.58887" x="7.8522949"><tspan id="tspan46" x="7.2663574">the grateful Yithians help you; close this Gate. If </tspan></tspan><tspan id="tspan48" y="132.51074" x="10.177734"><tspan id="tspan50" x="9.5917969">you fail, the encounter leaves you bruised and </tspan></tspan><tspan id="tspan52" y="137.43262" x="19.218567"><tspan id="tspan54" x="19.218567">shaken; lose 1 Health and 1 Sanity.</tspan></tspan></text>
+</svg>

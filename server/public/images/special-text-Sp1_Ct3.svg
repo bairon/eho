@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 155" height="155" width="100" version="1.1" id="svg2">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="special-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text90" y="70.751549" x="10.581132" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan92" y="70.751549" x="11.167069"><tspan id="tspan94" y="70.751549" x="10.581132">Trying not to focus on the architecture, you </tspan></tspan><tspan id="tspan96" y="75.673424" x="11.157914"><tspan id="tspan98" y="75.673424" x="10.571977">instead take note of a series of hieroglyphics </tspan></tspan><tspan id="tspan100" y="80.595299" x="10.356828"><tspan id="tspan102" y="80.595299" x="9.7708902">inscribed on the walls. You desperately try to </tspan></tspan><tspan id="tspan104" y="95.360924" x="83.306046"><tspan id="tspan106" y="85.517174" x="6.9236002">interpret them for useful information (</tspan><tspan id="tspan108" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="85.517174" x="77.09877">[</tspan><tspan id="tspan110" y="85.517174" x="82.720108">-1). If </tspan></tspan><tspan id="tspan112" y="0" x="9.8075113"><tspan id="tspan114" y="90.439049" x="9.2215738">you pass, place 1 Eldritch token on the active </tspan></tspan><tspan id="tspan116" y="0" x="42.395706"><tspan id="tspan118" y="95.360924" x="42.395706">Mystery.</tspan></tspan></text>
+  <text style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve" id="text3067" y="152.05095" x="90.146614"><tspan id="tspan3069" y="152.05095" x="90.146614" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;writing-mode:lr-tb;text-anchor:start">3</tspan></text>
+  <text id="text84" y="14.053441" x="9.8226213" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:94.99999881%;font-family:WfUglyQua;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan86" y="14.053441" x="9.8226213"><tspan id="tspan88" y="14.053441" x="9.8226213">R'lyeh Risen</tspan></tspan></text>
+  <path style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 6.2394068,25.450212 0,22.823093 16.9120762,13.135593 56.483051,0 14.449153,-18.71822 -24.793433,-17.076271 z" id="path4226"/>
+  <text id="text54" y="28.424805" x="9.5720863" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan56" y="28.424805" x="10.158024"><tspan id="tspan58" y="28.424805" x="9.5720863">You swim up to the slimy rocks </tspan></tspan><tspan id="tspan60" y="33.34668" x="13.625786"><tspan id="tspan62" x="13.039848">and walk into the corpse city of </tspan></tspan><tspan id="tspan64" y="38.268555" x="11.170078"><tspan id="tspan66" x="10.584141">R'lyeh. Inside, cyclopean, green, stone </tspan></tspan><tspan id="tspan68" y="43.19043" x="7.3639755"><tspan id="tspan70" x="6.778038">blocks meet at non-Euclidean angles. The very </tspan></tspan><tspan id="tspan72" y="48.112305" x="10.03299"><tspan id="tspan74" x="9.447053">sight of this alien construction threatens to </tspan></tspan><tspan id="tspan76" y="53.03418" x="26.737617"><tspan id="tspan78" x="26.737617">shatter your mind (</tspan><tspan id="tspan80" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons">{</tspan><tspan id="tspan82">-1).</tspan></tspan></text>
+  <path style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 17.568856,117.23517 -9.1949153,5.91102 0,21.18114 8.2097453,5.41843 63.215043,0 3.283898,-6.2394 11.329449,0 0,-20.36017 -9.03072,-5.91102 z" id="path4260"/>
+  <text id="text32" y="120.20801" x="20.295214" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan34" y="120.20801" x="20.881151"><tspan id="tspan36" y="120.20801" x="20.295214">Your life up until this moment has </tspan></tspan><tspan id="tspan38" y="125.12988" x="17.819086"><tspan id="tspan40" x="17.233149">been a dream from which you are just </tspan></tspan><tspan id="tspan42" y="130.05176" x="9.3973389"><tspan id="tspan44" x="8.8114014">awakening. You now understand that your true </tspan></tspan><tspan id="tspan46" y="134.97363" x="12.601685"><tspan id="tspan48" x="12.015747">purpose is to offer yourself up as sacrifice to </tspan></tspan><tspan id="tspan50" y="139.89551" x="29.987549"><tspan id="tspan52" x="29.987549">Cthulhu. Lose 3 Sanity.</tspan></tspan></text>
+</svg>

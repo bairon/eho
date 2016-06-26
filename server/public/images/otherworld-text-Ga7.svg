@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="otherworld-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text92" y="70.71479" x="5.7427607" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan94" y="70.71479" x="6.3286982"><tspan id="tspan96" y="70.71479" x="5.7427607">After gaining access to the Dreamlands, you find </tspan></tspan><tspan id="tspan98" y="75.636665" x="8.7731562"><tspan id="tspan100" y="75.636665" x="8.1872187">yourself fighting moonbeasts on a black galley </tspan></tspan><tspan id="tspan102" y="90.40229" x="51.638145"><tspan id="tspan104" y="80.55854" x="7.0977411">sailing to the moon (</tspan><tspan id="tspan106" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="80.55854" x="44.954796">}</tspan><tspan id="tspan108" y="80.55854" x="51.052208">). If you pass, you steal </tspan></tspan><tspan id="tspan110" y="95.324165" x="6.5850458"><tspan id="tspan112" y="85.480415" x="5.9991083">their treasure and are able to barter with it; close </tspan></tspan><tspan id="tspan114" y="0" x="3.7743769"><tspan id="tspan116" y="90.40229" x="3.1884394">this Gate. If you fail, you become lost in a forest on </tspan></tspan><tspan id="tspan118" y="0" x="7.6424799"><tspan id="tspan120" y="95.324165" x="7.6424799">the moon; lose 2 Health and become Delayed.</tspan></tspan></text>
+  <text style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve" id="text3067" y="152.17839" x="89.930534"><tspan style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;writing-mode:lr-tb;text-anchor:start" id="tspan3069" y="152.17839" x="89.930534">7</tspan></text>
+  <text id="text86" y="11.359901" x="4.0982647" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:94.99999881%;font-family:WfUglyQua;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan88" y="11.359901" x="4.0982647"><tspan id="tspan90" y="11.359901" x="4.0982647">The Dreamlands</tspan></tspan></text>
+  <path id="path4426" d="m 2.2987288,27.121822 0,35.137712 95.3972462,0 0,-24.629237 -24.136653,0 -11.165254,-10.508475 z" style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  <text id="text52" y="28.095123" x="8.756237" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan54" y="28.095123" x="9.3421745"><tspan id="tspan56" y="28.095123" x="8.756237">In the cavern of flame, the </tspan></tspan><tspan id="tspan58" y="33.016998" x="3.913414"><tspan id="tspan60" y="33.016998" x="3.913414">bearded priests Nasht and Kaman-</tspan></tspan><tspan id="tspan62" y="37.938873" x="3.7992859"><tspan id="tspan64" y="37.938873" x="3.2133484">Ihah warn you that it is too dangerous </tspan></tspan><tspan id="tspan66" y="42.860748" x="11.865356"><tspan id="tspan68" y="42.860748" x="11.279419">to continue. You insist that you possess the </tspan></tspan><tspan id="tspan70" y="47.782623" x="5.9785156"><tspan id="tspan72" y="47.782623" x="5.3925781">knowledge you need and are resolved to enter the </tspan></tspan><tspan id="tspan74" y="0" x="34.524658"><tspan id="tspan76" y="52.704498" x="5.5939941">Dreamlands (</tspan><tspan id="tspan78" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="52.704498" x="30.230835">{</tspan><tspan id="tspan80" y="52.704498" x="33.938721">-1). Roll 1 additional die for each </tspan></tspan><tspan id="tspan82" y="0" x="36.470154"><tspan id="tspan84" y="57.626373" x="36.470154">Clue you have.</tspan></tspan></text>
+  <path id="path4460" d="m 9.5233051,114.77225 -3.1197034,7.22457 0,21.18115 5.9110173,6.56779 67.976695,0 1.970339,-5.91101 13.135593,0 0,-24.62924 -6.075212,-4.26906 z" style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  <text id="text30" y="117.74512" x="12.714324" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan32" y="117.74512" x="13.300261"><tspan id="tspan34" y="117.74512" x="12.714324">The gods of dreams exile you back to the </tspan></tspan><tspan id="tspan36" y="122.66699" x="16.999552"><tspan id="tspan38" x="16.413614">waking world and punish you for your </tspan></tspan><tspan id="tspan40" y="127.58887" x="12.132385"><tspan id="tspan42" x="11.546448">overreaching ambition. Your dream and the </tspan></tspan><tspan id="tspan44" y="132.51074" x="7.2938232"><tspan id="tspan46" x="6.7078857">waking world become indistinguishable. Become </tspan></tspan><tspan id="tspan48" y="137.43262" x="8.9921265"><tspan id="tspan50" x="8.9921265">Delayed and gain a Hallucinations Condition.</tspan></tspan></text>
+</svg>

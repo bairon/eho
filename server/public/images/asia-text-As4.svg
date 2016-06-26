@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="asia-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text96" y="20.079035" x="1.1103451" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan98" y="20.079035" x="1.6962826"><tspan id="tspan100" y="20.079035" x="1.1103451">The Shanghai Museum recommends you speak to Mu </tspan></tspan><tspan id="tspan102" y="25.00091" x="3.0924618"><tspan id="tspan104" y="25.00091" x="2.5065243">Hsien, a pre-eminent scholar of the occult. You send </tspan></tspan><tspan id="tspan106" y="29.922785" x="5.1523981"><tspan id="tspan108" y="29.922785" x="4.5664606">him a message that you hope will convince him to </tspan></tspan><tspan id="tspan110" y="0" x="69.221001"><tspan id="tspan112" y="34.844662" x="1.4719784">help (</tspan><tspan id="tspan114" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="34.844662" x="11.954766">]</tspan><tspan id="tspan116" y="34.844662" x="20.029718">). If you pass, improve (</tspan><tspan id="tspan118" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="34.844662" x="63.013725">[</tspan><tspan id="tspan120" y="34.844662" x="68.635063">) as he shares his </tspan></tspan><tspan id="tspan122" y="0" x="30.723078"><tspan id="tspan124" y="39.766537" x="30.723078">wealth of knowledge.</tspan></tspan></text>
+  <text id="text66" y="67.978134" x="11.177428" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan68" y="67.978134" x="11.763366"><tspan id="tspan70" y="67.978134" x="11.177428">The reigning Emperor has been plagued by </tspan></tspan><tspan id="tspan72" y="72.900009" x="4.8465567"><tspan id="tspan74" y="72.900009" x="4.2606192">nightmares. His advisers ask your opinion and you </tspan></tspan><tspan id="tspan76" y="87.665634" x="82.744202"><tspan id="tspan78" y="77.821884" x="3.2123406">assure them that these horrors are real (</tspan><tspan id="tspan80" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="77.821884" x="74.083313">]</tspan><tspan id="tspan82" y="77.821884" x="82.158264">). If you </tspan></tspan><tspan id="tspan84" y="92.587509" x="2.8598626"><tspan id="tspan86" y="82.743759" x="2.2739251">pass, they act immediately; 1 Monster of your choice </tspan></tspan><tspan id="tspan88" y="0" x="9.2731314"><tspan id="tspan90" y="87.665634" x="8.6871939">on any space loses 2 Health. If you fail, gain a </tspan></tspan><tspan id="tspan92" y="0" x="30.966553"><tspan id="tspan94" y="92.587509" x="30.966553">Detained Condition.</tspan></tspan></text>
+  <text id="text32" y="115.87046" x="6.0182786" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan34" y="115.87046" x="6.6042161"><tspan id="tspan36" y="115.87046" x="6.0182786">Several passengers on an underground train have </tspan></tspan><tspan id="tspan38" y="120.79234" x="7.1397996"><tspan id="tspan40" y="120.79234" x="6.5538621">been trapped by a tunnel collapse. The dark and </tspan></tspan><tspan id="tspan42" y="125.71421" x="2.8505538"><tspan id="tspan44" y="125.71421" x="2.2646163">claustrophobic climb through the rubble is terrifying </tspan></tspan><tspan id="tspan46" y="140.47983" x="7.4144578"><tspan id="tspan48" y="130.63608" x="1.6191696">(</tspan><tspan id="tspan50" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="130.63608" x="3.1206343">{</tspan><tspan id="tspan52" y="130.63608" x="6.8285203">). If you pass, your nerves hold out enough to help </tspan></tspan><tspan id="tspan54" y="0" x="89.198517"><tspan id="tspan56" y="135.55795" x="4.5213914">dig a clear path for the survivors; improve (</tspan><tspan id="tspan58" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="135.55795" x="82.515167">}</tspan><tspan id="tspan60" y="135.55795" x="88.612579">). If </tspan></tspan><tspan id="tspan62" y="0" x="30.256865"><tspan id="tspan64" y="140.47983" x="30.256865">you fail, lose 1 Sanity.</tspan></tspan></text>
+  <text style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000024px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;" xml:space="preserve" id="text3067" y="152.90953" x="89.340591"><tspan id="tspan3069" y="152.90953" x="89.340591" style=";font-family:WfGaramond;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.00000024px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">4</tspan></text>
+</svg>

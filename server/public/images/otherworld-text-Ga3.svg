@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="otherworld-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text92" y="70.71479" x="4.6441278" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan94" y="70.71479" x="5.2300653"><tspan id="tspan96" y="70.71479" x="4.6441278">You decipher the means to return yourself to your </tspan></tspan><tspan id="tspan98" y="75.636665" x="6.9787226"><tspan id="tspan100" y="75.636665" x="6.3927851">own time; close this Gate. After you return, you </tspan></tspan><tspan id="tspan102" y="80.55854" x="9.4323359"><tspan id="tspan104" y="80.55854" x="8.8463984">forget your time with the Great Race, but are </tspan></tspan><tspan id="tspan106" y="0" x="61.219139"><tspan id="tspan108" y="85.480415" x="6.5438471">plagued by strange dreams (</tspan><tspan id="tspan110" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="85.480415" x="56.925316">{</tspan><tspan id="tspan112" y="85.480415" x="60.633202">). If you pass, you </tspan></tspan><tspan id="tspan114" y="0" x="2.7306757"><tspan id="tspan116" y="90.40229" x="2.7306757">explore these visions during your sleep; gain 1 Clue.</tspan></tspan></text>
+  <text style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve" id="text3067" y="152.17839" x="89.930534"><tspan style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;writing-mode:lr-tb;text-anchor:start" id="tspan3069" y="152.17839" x="89.930534">3</tspan></text>
+  <text id="text82" y="8.7031221" x="3.5196512" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:94.99999881%;font-family:WfUglyQua;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan84" y="8.7031221" x="4.7061749"><tspan id="tspan86" y="8.7031221" x="3.5196512">City of the Great </tspan></tspan><tspan id="tspan88" y="15.828122" x="23.822386"><tspan id="tspan90" y="15.828122" x="23.822386">Race</tspan></tspan></text>
+  <path id="path4426" d="m 2.2987288,27.121822 0,35.137712 95.3972462,0 0,-24.629237 -24.136653,0 -11.165254,-10.508475 z" style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  <text id="text52" y="30.095123" x="4.4486809" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan54" y="30.095123" x="5.0346184"><tspan id="tspan56" y="30.095123" x="4.4486809">On a high, stone shelf you find </tspan></tspan><tspan id="tspan58" y="35.016998" x="6.6325302"><tspan id="tspan60" y="35.016998" x="6.0465927">books containing the wisdom of </tspan></tspan><tspan id="tspan62" y="39.938873" x="3.9045715"><tspan id="tspan64" y="39.938873" x="3.318634">both the distant past and the far-flung </tspan></tspan><tspan id="tspan66" y="44.860748" x="4.0055542"><tspan id="tspan68" y="44.860748" x="3.4196167">future. Unfortunately, the tomes were written using </tspan></tspan><tspan id="tspan70" y="49.782623" x="4.5869141"><tspan id="tspan72" y="49.782623" x="4.0009766">a series of strange curvilinear symbols. You do your </tspan></tspan><tspan id="tspan74" y="0" x="81.916931"><tspan id="tspan76" y="54.704498" x="11.558655">best to translate the alien language (</tspan><tspan id="tspan78" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="54.704498" x="76.295593">[</tspan><tspan id="tspan80" y="54.704498" x="81.916931">-1).</tspan></tspan></text>
+  <path id="path4460" d="m 9.5233051,114.77225 -3.1197034,7.22457 0,21.18115 5.9110173,6.56779 67.976695,0 1.970339,-5.91101 13.135593,0 0,-24.62924 -6.075212,-4.26906 z" style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  <text id="text30" y="117.74512" x="9.7480154" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan32" y="117.74512" x="10.333953"><tspan id="tspan34" y="117.74512" x="9.7480154">The symbols make no sense to you. You fear </tspan></tspan><tspan id="tspan36" y="122.66699" x="7.986186"><tspan id="tspan38" x="7.4002485">that you will be stuck here forever and search for </tspan></tspan><tspan id="tspan40" y="127.58887" x="8.6167603"><tspan id="tspan42" x="8.0308228">a way home. You feel despair eating at you; lose </tspan></tspan><tspan id="tspan44" y="132.51074" x="9.6970825"><tspan id="tspan46" x="9.111145">2 Sanity and gain a Paranoia Condition unless </tspan></tspan><tspan id="tspan48" y="137.43262" x="34.39801"><tspan id="tspan50" x="34.39801">you spend 1 Clue.</tspan></tspan></text>
+</svg>

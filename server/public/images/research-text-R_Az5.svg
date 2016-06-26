@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="research-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text74" y="23.269703" x="2.322628" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan76" y="23.269703" x="2.9085655"><tspan id="tspan78" y="23.269703" x="2.322628">Doctors ask you to observe a trephination. They pull </tspan></tspan><tspan id="tspan80" y="28.191578" x="3.5677452"><tspan id="tspan82" y="28.191578" x="2.9818077">away a piece of his skull, and you examine the brain </tspan></tspan><tspan id="tspan84" y="42.957203" x="12.970211"><tspan id="tspan86" y="33.113453" x="4.7029991">(</tspan><tspan id="tspan88" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="33.113453" x="6.204464">|</tspan><tspan id="tspan90" y="33.113453" x="12.384274">). If you pass, you spot an insect-like creature; </tspan></tspan><tspan id="tspan92" y="47.879078" x="2.9726524"><tspan id="tspan94" y="38.035328" x="2.3867149">gain this Clue and 1 additional Clue. If you fail, you </tspan></tspan><tspan id="tspan96" y="0" x="5.9801598"><tspan id="tspan98" y="42.957203" x="5.3942223">don't see the Shan, and it overpowers your mind; </tspan></tspan><tspan id="tspan100" y="0" x="5.2248497"><tspan id="tspan102" y="47.879078" x="5.2248497">shuffle a solved Mystery at random into the deck.</tspan></tspan></text>
+  <text id="text48" y="75.17601" x="4.4703999" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan50" y="75.17601" x="5.0563374"><tspan id="tspan52" y="75.17601" x="4.4703999">You discover a twenty-foot tall, gray metallic cone! </tspan></tspan><tspan id="tspan54" y="80.097885" x="5.6972065"><tspan id="tspan56" y="80.097885" x="5.111269">Gain this Clue. You try to make sense of the alien </tspan></tspan><tspan id="tspan58" y="94.86351" x="42.583805"><tspan id="tspan60" y="85.01976" x="1.9893208">technology inside (</tspan><tspan id="tspan62" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="85.01976" x="36.37653">[</tspan><tspan id="tspan64" y="85.01976" x="41.997868">-1). If you pass, you manage to </tspan></tspan><tspan id="tspan66" y="0" x="2.213625"><tspan id="tspan68" y="89.941635" x="1.6276875">operate the shan technology; discard 1 Eldritch token </tspan></tspan><tspan id="tspan70" y="5.6213379" x="29.967836"><tspan id="tspan72" y="94.86351" x="29.967836">from the Omen track.</tspan></tspan></text>
+  <text id="text26" y="119.8141" x="2.6346142" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan28" y="119.8141" x="3.2205517"><tspan id="tspan30" y="119.8141" x="2.6346142">You wake up to find a large, winged creature in your </tspan></tspan><tspan id="tspan32" y="124.73598" x="6.8643508"><tspan id="tspan34" y="124.73598" x="6.2784133">cabin. It offers you an object to use in your fight </tspan></tspan><tspan id="tspan36" y="129.65785" x="10.791963"><tspan id="tspan38" y="129.65785" x="10.206025">against Azathoth. You may gain a Dark Pact </tspan></tspan><tspan id="tspan40" y="134.57973" x="6.7270217"><tspan id="tspan42" y="134.57973" x="6.1410842">Condition to gain this Clue and the T'tka Halot </tspan></tspan><tspan id="tspan44" y="139.5016" x="42.460052"><tspan id="tspan46" y="139.5016" x="42.460052">Artifact.</tspan></tspan></text>
+  <text x="89.3032" y="151.89615" id="text3067" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan x="89.3032" y="151.89615" id="tspan3069" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;writing-mode:lr-tb;text-anchor:start">5</tspan></text>
+</svg>

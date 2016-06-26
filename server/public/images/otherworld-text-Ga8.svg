@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 155" height="155" width="100" version="1.1" id="svg2">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="otherworld-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text96" y="70.71479" x="4.8592768" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan98" y="70.71479" x="5.4452143"><tspan id="tspan100" y="70.71479" x="4.8592768">Resisting the urge to panic, you find a large metal </tspan></tspan><tspan id="tspan102" y="75.636665" x="8.6404047"><tspan id="tspan104" y="75.636665" x="8.0544672">and glass machine that has electricity sparking </tspan></tspan><tspan id="tspan106" y="80.55854" x="6.090661"><tspan id="tspan108" y="80.55854" x="5.5047235">across its surface. You try to learn how to operate </tspan></tspan><tspan id="tspan110" y="95.324165" x="29.537315"><tspan id="tspan112" y="85.480415" x="2.5567255">the device (</tspan><tspan id="tspan114" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="85.480415" x="23.33004">[</tspan><tspan id="tspan116" y="85.480415" x="28.951378">). If you pass, you return to your own </tspan></tspan><tspan id="tspan118" y="0" x="7.9354486"><tspan id="tspan120" y="90.40229" x="7.3495111">time; close this Gate. If you fail, you receive an </tspan></tspan><tspan id="tspan122" y="0" x="22.231407"><tspan id="tspan124" y="95.324165" x="22.231407">electrical shock; lose 2 Health.</tspan></tspan></text>
+  <text x="89.930534" y="152.17839" id="text3067" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan x="89.930534" y="152.17839" id="tspan3069" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000048px;line-height:125%;font-family:WfGaramond;;text-align:start;writing-mode:lr-tb;text-anchor:start">8</tspan></text>
+  <text id="text90" y="11.359901" x="13.231565" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:94.99999881%;font-family:WfUglyQua;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan92" y="11.359901" x="13.231565"><tspan id="tspan94" y="11.359901" x="13.231565">The Future</tspan></tspan></text>
+  <path style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 2.2987288,27.121822 0,35.137712 95.3972462,0 0,-24.629237 -24.136653,0 -11.165254,-10.508475 z" id="path4426"/>
+  <text id="text64" y="30.095123" x="5.6892204" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan66" y="30.095123" x="6.2751579"><tspan id="tspan68" y="30.095123" x="5.6892204">You find yourself in a familiar </tspan></tspan><tspan id="tspan70" y="35.016998" x="5.286705"><tspan id="tspan72" y="35.016998" x="4.7007675">city, but there's no electricity. The </tspan></tspan><tspan id="tspan74" y="39.938873" x="6.9761658"><tspan id="tspan76" y="39.938873" x="6.3902283">only light comes from the greenish </tspan></tspan><tspan id="tspan78" y="44.860748" x="3.6347656"><tspan id="tspan80" y="44.860748" x="3.0488281">moon, and the only sound is distant screaming. You </tspan></tspan><tspan id="tspan82" y="0" x="89.602783"><tspan id="tspan84" y="49.782623" x="7.7180176">can feel your reason being overrun by fear (</tspan><tspan id="tspan86" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="49.782623" x="85.894897">{</tspan><tspan id="tspan88" y="49.782623" x="89.602783">).</tspan></tspan></text>
+  <path style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 9.5233051,114.77225 -3.1197034,7.22457 0,21.18115 5.9110173,6.56779 67.976695,0 1.970339,-5.91101 13.135593,0 0,-24.62924 -6.075212,-4.26906 z" id="path4460"/>
+  <text id="text34" y="117.74512" x="10.420928" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan id="tspan36" y="117.74512" x="11.006866"><tspan id="tspan38" y="117.74512" x="10.420928">Without thinking, you start walking with a </tspan></tspan><tspan id="tspan40" y="122.66699" x="10.014079"><tspan id="tspan42" x="9.4281416">long line of people. You hear screams from the </tspan></tspan><tspan id="tspan44" y="127.58887" x="9.2026978"><tspan id="tspan46" x="8.6167603">people ahead of you. You try to escape, but the </tspan></tspan><tspan id="tspan48" y="132.51074" x="12.938049"><tspan id="tspan50" x="12.352112">area is being guarded (</tspan><tspan id="tspan52" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons">}</tspan><tspan id="tspan54">). If you fail, you </tspan></tspan><tspan id="tspan56" y="137.43262" x="16.943481"><tspan id="tspan58" x="16.357544">return home with no memory of what </tspan></tspan><tspan id="tspan60" y="142.35449" x="15.290955"><tspan id="tspan62" x="15.290955">happened; gain an Amnesia Condition.</tspan></tspan></text>
+</svg>

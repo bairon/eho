@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" version="1.1" width="100" height="155" viewBox="0 0 100 155">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"><style id="webfont-styles" type="text/css">
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Adobe Garamond Pro Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfGaramond';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Adobe Garamond Pro Bold Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfUglyQua';
+  src: url('../fonts/UglyQua.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfKremlinChairman';
+  src: url('../fonts/Kremlin Chairman.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WfEldritchHorrorIcons';
+  src: url('../fonts/FTYXOQ+EldritchHorrorIcons-7009.ttf') format('truetype');
+}</style></defs>
+  <image xlink:href="general-bg.png" preserveAspectRatio="none" height="155" width="100" y="0" x="0" id="background-image"/>
+  <text id="text88" y="21.757357" x="2.0968361" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan90" y="21.757357" x="2.6827736"><tspan id="tspan92" y="21.757357" x="2.0968361">A group Of intimidating Syndicate members demand </tspan></tspan><tspan id="tspan94" y="26.679232" x="7.3199196"><tspan id="tspan96" y="26.679232" x="7.3199196">you pay them for protection. You offer the well-</tspan></tspan><tspan id="tspan98" y="41.444855" x="74.93161"><tspan id="tspan100" y="31.601107" x="4.2437477">dressed men what you can afford (</tspan><tspan id="tspan102" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="31.601107" x="66.270721">]</tspan><tspan id="tspan104" y="31.601107" x="74.345673">). If you fail, </tspan></tspan><tspan id="tspan106" y="0" x="2.778904"><tspan id="tspan108" y="36.52298" x="2.1929665">they make sure you meet with an accident; gain a Leg </tspan></tspan><tspan id="tspan110" y="0" x="34.286777"><tspan id="tspan112" y="41.444855" x="34.286777">Injury Condition.</tspan></tspan></text>
+  <text id="text58" y="64.817497" x="2.9811802" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan60" y="64.817497" x="3.5671177"><tspan id="tspan62" y="64.817497" x="2.9811802">The terrain ahead of you looks impassable, but going </tspan></tspan><tspan id="tspan64" y="69.739372" x="2.9628696"><tspan id="tspan66" y="69.739372" x="2.3769321">around would take too long. You'll need to find some </tspan></tspan><tspan id="tspan68" y="84.504997" x="50.817482"><tspan id="tspan70" y="74.661247" x="3.210062">way to move forward (</tspan><tspan id="tspan72" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="74.661247" x="44.051735">|</tspan><tspan id="tspan74" y="74.661247" x="50.231544">). If you pass, you discover </tspan></tspan><tspan id="tspan76" y="89.426872" x="6.322855"><tspan id="tspan78" y="79.583122" x="5.7369175">a path; move 1 space. If you fail, you trip over the </tspan></tspan><tspan id="tspan80" y="0" x="4.4597569"><tspan id="tspan82" y="84.504997" x="3.8738194">uneven ground; lose 1 Health and gain a Leg Injury </tspan></tspan><tspan id="tspan84" y="0" x="40.600197"><tspan id="tspan86" y="89.426872" x="40.600197">Condition.</tspan></tspan></text>
+  <text id="text28" y="113.54878" x="3.1458216" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6875px;line-height:104.99999523%;font-family:WfGaramond;;text-align:middle;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" xml:space="preserve"><tspan id="tspan30" y="113.54878" x="3.7317591"><tspan id="tspan32" y="113.54878" x="3.1458216">You discover a signal fire on a small island, but don't </tspan></tspan><tspan id="tspan34" y="118.47066" x="3.34266"><tspan id="tspan36" y="118.47066" x="2.7567225">find any people. You search the beach for signs of life </tspan></tspan><tspan id="tspan38" y="133.23628" x="13.04725"><tspan id="tspan40" y="123.39253" x="4.7800379">(</tspan><tspan id="tspan42" style="line-height:80.00000119%;font-family:WfEldritchHorrorIcons" y="123.39253" x="6.2815027">|</tspan><tspan id="tspan44" y="123.39253" x="12.461312">). If you pass, you spot a person hiding behind </tspan></tspan><tspan id="tspan46" y="138.15816" x="4.6793299"><tspan id="tspan48" y="128.31441" x="4.0933924">large stones; gain 1 Clue and 1 random ALLY Asset </tspan></tspan><tspan id="tspan50" y="0" x="9.2203455"><tspan id="tspan52" y="133.23628" x="8.634408">from the deck. If you fail, the mystery remains </tspan></tspan><tspan id="tspan54" y="0" x="17.034372"><tspan id="tspan56" y="138.15816" x="17.034372">unsolved; gain a Paranoia Condition.</tspan></tspan></text>
+  <text style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.00000024px;line-height:125%;font-family:WfGaramond;;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;" xml:space="preserve" id="text3067" y="152.32748" x="90.020378"><tspan id="tspan3069" y="152.32748" x="90.020378" style=";font-family:WfGaramond;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.00000024px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">4</tspan></text>
+</svg>
