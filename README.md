@@ -1,4 +1,4 @@
-# eho
+# Eldritch Horror Online
 Online webapp representation of the Eldritch Horror board game by Fantasy Flight Games.
 
 # Building
