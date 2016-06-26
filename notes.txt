@@ -1,7 +1,0 @@
-Dev strategy:
-1. Create canvas with background image of game board
-2. Model regions (tokyo, himalayas, etc) with x / y positions in canvas (scaling issues? how to guarantee coordinates?).
-3. Model pieces, need to be able to render and have x / y position.
-4. extract resources from vassal stuff somehow?
-5. Need to be able to click and drag pieces. move x / y along with mouse move while in drag mode?
-   Incrase image size and center over mouse while dragging.
