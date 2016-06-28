@@ -1,6 +1,8 @@
+import {RECV_MESSAGE} from '../actions';
+
 const messages = (state = [], action) => {
   switch (action.type) {
-    case 'RECV_MESSAGE':
+    case RECV_MESSAGE:
       return [
         ...state,
         action.message

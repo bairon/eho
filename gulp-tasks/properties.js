@@ -3,6 +3,7 @@
  */
 module.exports = {
   clientAppDir: './client/app/',
+  clientTestDir: './client/test/',
   clientDistDir: './client/dist/',
   clientMainFile: 'main.js',
 

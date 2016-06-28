@@ -3,7 +3,10 @@ var eslint = require('gulp-eslint');
 var props = require('./properties');
 
 gulp.task('lint', function () {
-  return gulp.src([props.clientAppDir + '**/*.jsx', props.clientAppDir + '**/*.js', '!node_modules/**'])
+  return gulp.src([props.clientAppDir + '**/*.jsx',
+                   props.clientAppDir + '**/*.js',
+                   props.clientTestDir + '**/*.js',
+                   '!node_modules/**'])
     .pipe(eslint({
         'extends': ['eslint:recommended', 'plugin:react/recommended', 'google'],
         'plugins': ['react'],
@@ -21,7 +24,8 @@ gulp.task('lint', function () {
           'browser': true,
           'node': true,
           'commonjs': true,
-          'es6': true
+          'es6': true,
+          'mocha': true
         }
     }))
     // eslint.format() outputs the lint results to the console.
