@@ -11,7 +11,7 @@ app.use(express.static(path.join(__dirname, appDist)));
 app.use(express.static(path.join(__dirname, './public')));
 
 // Socket IO setup
-var socketPort = 3000;
+var socketPort = process.env.PORT || 3000;
 
 http.listen(socketPort, function() {
   console.log('listening on *:' + socketPort);
